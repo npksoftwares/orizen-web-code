@@ -1,0 +1,38 @@
+
+
+
+# Disable Directory Listing
+Options -Indexes
+
+# X-Robots-Tag
+Header set X-Robots-Tag "noindex, nofollow"
+
+# Rewrite Engine
+RewriteEngine On
+
+# Root Directory
+RewriteBase /
+
+# Remove .html Extension
+RewriteCond %{THE_REQUEST} ^GET\ (.*)\.html\ HTTP
+RewriteRule (.*)\.html$ $1 [R=301]
+
+# Remove index + Reference Directory
+RewriteRule (.*)/index$ $1/ [R=301]
+
+# Remove Trailing Slash **If Not Directory**
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} /$
+RewriteRule (.*)/ $1 [R=301]
+
+# Forward Request To html File, **But Don't Redirect (Bot Friendly)**
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteCond %{REQUEST_URI} !/$
+RewriteRule (.*) $1\.html [L]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php74” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php74 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

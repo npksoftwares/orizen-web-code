@@ -1,0 +1,2244 @@
+ @media (min-width:1350.98px) {
+ 	.container {
+ 		max-width: 1280px
+ 	}
+ }
+
+ @media (max-width:1366.98px) {
+ 	.on_demand_work .portfolio_img img {
+ 		max-height: 372px;
+ 	}
+
+ 	.home_banner,
+ 	.home_banner.free_consult_banner {
+ 		background-color: #f2f3f7;
+ 		background-image: none !important;
+ 	}
+
+ 	.menu ul li + li {
+ 		margin-left: 10px
+ 	}
+
+ 	.home_banner .caption h1 {
+ 		font-size: 50px
+ 	}
+
+ 	.work_stats .box {
+ 		padding: 35px 30px
+ 	}
+
+ 	.up_down .right_text {
+ 		padding: 80px 100px 55px
+ 	}
+
+ 	.demand_solution .plus_icon {
+ 		margin: 15px auto;
+ 	}
+
+ 	.value_heading h3 {
+ 		word-break: break-word;
+ 	}
+
+ 	.about_banner h2 {
+ 		font-size: 33px
+ 	}
+
+ 	.about_banner .btn + .btn {
+ 		margin-left: 0
+ 	}
+ }
+
+ @media (max-width:1199.98px) {
+ 	.innovative_solution .col5 {
+ 		width: 33.33%;
+ 	}
+
+ 	.device_wrapper .left_align {
+ 		width: 45%;
+ 	}
+
+ 	.device_wrapper .right_align {
+ 		width: 55%;
+ 	}
+
+ 	.device_wrapper .left_align img {
+ 		max-width: 100%;
+ 	}
+
+ 	.on_demand_work .portfolio_img {
+ 		min-height: 0px;
+ 	}
+
+ 	.on_demand_work .portfolio_img img {
+ 		width: auto;
+ 	}
+
+ 	.on_demand_work .ondemand_content img.mb-3 {
+ 		max-width: 70px;
+ 	}
+
+ 	.section_heading .title {
+ 		font-size: 24px;
+ 	}
+
+ 	.home_tab_panel .tabs li a {
+ 		font-size: 16px;
+ 	}
+
+ 	.ser_banner .outer h3 {
+ 		font-size: 20px;
+ 	}
+
+ 	.ser_banner .outer h3 span {
+ 		font-size: 14px;
+ 	}
+
+ 	.special_text ul li {
+ 		font-size: 15px;
+ 	}
+
+ 	.hiring_modal_slide_block {
+ 		margin-top: 30px;
+ 	}
+
+ 	.hiring_modal_table table td,
+ 	.hiring_modal_table table th.table_subtitle {
+ 		font-size: 14px;
+ 		padding: 15px 7px;
+ 		text-align: center;
+ 	}
+
+ 	.thanku_banner {
+ 		padding: 425px 0 20px
+ 	}
+
+ 	.certificate_wrapper .certificate_slider .owl-stage-outer {
+ 		display: block
+ 	}
+
+ 	.car_wash_tab .nav-item + .nav-item {
+ 		margin-left: 12px
+ 	}
+
+ 	.left_tab ul.nav-tabs li {
+ 		margin: 0
+ 	}
+
+ 	.about_banner h2 {
+ 		font-size: 26px
+ 	}
+
+ 	.andriod_banner .caption h1 {
+ 		font-size: 35px
+ 	}
+
+ 	.tab_text {
+ 		width: 45%;
+ 		padding-right: 20px;
+ 		margin-top: 0
+ 	}
+
+ 	.menu ul li a {
+ 		font-size: 14px
+ 	}
+
+ 	.menu ul li + li {
+ 		margin-left: 0
+ 	}
+
+ 	.fixed_header img.logo_icon {
+ 		line-height: 45px;
+ 		display: none
+ 	}
+
+ 	.home_banner .caption h1 {
+ 		font-size: 45px
+ 	}
+
+ 	.page_heading h2 {
+ 		font-size: 35px
+ 	}
+
+ 	.welcome_Orizen {
+ 		padding: 100px 0 180px
+ 	}
+
+ 	.work_stats .box {
+ 		padding: 35px 15px
+ 	}
+
+ 	.work_stats {
+ 		padding: 60px 0
+ 	}
+
+ 	.team_content .btn + .btn {
+ 		margin-left: 0;
+ 		margin-top: 10px
+ 	}
+
+ 	.client_wrap .owl-nav {
+ 		text-align: center;
+ 		margin-top: 15px
+ 	}
+
+ 	.client_wrap .owl-nav img {
+ 		padding: 0 10px
+ 	}
+
+ 	.up_down .right_text {
+ 		padding: 40px;
+ 		margin-top: 140px
+ 	}
+
+ 	.testimonial_slider .owl-nav {
+ 		left: 52%
+ 	}
+
+ 	.why_Orizen {
+ 		background: #f7f7f7;
+ 	}
+
+ 	.quote_form form {
+ 		overflow: hidden
+ 	}
+
+ 	.quote_form form .form-group {
+ 		margin-bottom: 12px
+ 	}
+
+ 	.certificate_slider .owl-nav {
+ 		text-align: center
+ 	}
+
+ 	.certificate_slider .owl-nav img {
+ 		padding: 10px
+ 	}
+
+ 	.copyright a,
+ 	.copyright p,
+ 	.quick_links ul li a {
+ 		font-size: 14px
+ 	}
+
+ 	.section_name h6 {
+ 		font-size: 17px;
+ 		bottom: 37px
+ 	}
+
+ 	.section_name {
+ 		width: 87px;
+ 		height: 180px
+ 	}
+
+ 	.mobileAD_banner .caption {
+ 		margin-top: 45px
+ 	}
+
+ 	.mobileAD_company .section_heading h4 {
+ 		margin-right: -270px
+ 	}
+
+ 	.mobile_app_page .box a {
+ 		display: block;
+ 		text-align: center
+ 	}
+
+ 	.mobile_app_page .box .image {
+ 		margin-bottom: 15px
+ 	}
+
+ 	.business_text {
+ 		padding: 80px 10px
+ 	}
+
+ 	.app_slider .box {
+ 		margin-right: -50px
+ 	}
+
+ 	.app_slider .owl-nav {
+ 		bottom: -30px
+ 	}
+
+ 	.team {
+ 		padding: 80px 0 60px
+ 	}
+
+ 	.award_logo img {
+ 		max-width: 100%
+ 	}
+
+ 	.mobile_app_category .right_content {
+ 		padding: 80px 40px
+ 	}
+
+ 	.apps-carft-screen .nav-tabs li a {
+ 		font-size: 14px;
+ 	}
+
+ 	.apps-carft-screen .nav-tabs {
+ 		width: 25%;
+ 		flex: 0 0 25%;
+ 	}
+
+ 	.apps-carft-screen .title {
+ 		font-size: 36px;
+ 	}
+ }
+
+ @media (max-width:991.98px) {
+
+
+ 	.device_wrapper ol.w-50 li {
+ 		width: 100%
+ 	}
+
+ 	.zmdi-long-arrow-left:before {
+ 		left: 0;
+ 	}
+
+ 	.zmdi-long-arrow-right:before {
+ 		right: 0;
+ 	}
+
+ 	.apps-carft-screen-short-ssection {
+ 		overflow: hidden;
+ 	}
+
+ 	.banner_bootom_wrap .btn {
+ 		display: none;
+ 	}
+
+ 	.banner_bootom_wrap .middle_client {
+ 		width: 100%;
+ 	}
+
+ 	.career_opening_wrap {
+ 		padding: 20px;
+ 	}
+
+ 	.career_opening_wrap h2 {
+ 		font-size: 28px;
+ 	}
+
+ 	.fixed_header .top_data_bar {
+ 		display: none;
+ 	}
+
+ 	.value_benifit_wrap .outer .bottom_text img {
+ 		max-height: 100px;
+ 	}
+
+ 	.hire_web_developers_list li {
+ 		width: 20%;
+ 	}
+
+ 	.dropdown-menu .mobile_50 li {
+ 		width: 100%
+ 	}
+
+ 	.testimonial_project img {
+ 		max-height: 400px
+ 	}
+
+ 	.value_benifit_wrap .outer {
+ 		padding: 15px
+ 	}
+
+ 	.best_work {
+ 		margin-top: 50px
+ 	}
+
+ 	.best_work_wrap {
+ 		padding: 50px 0
+ 	}
+
+ 	.car_wash_tab .nav-item .nav-link {
+ 		font-size: 14px;
+ 		padding: 10px;
+ 		line-height: 20px
+ 	}
+
+ 	.car_wash_tab .nav-item .nav-link span img {
+ 		max-width: 45px
+ 	}
+
+ 	.car_wash_tab .nav-item + .nav-item {
+ 		margin-left: 5px
+ 	}
+
+ 	.car_wash_tab .tab-content h3 {
+ 		font-size: 24px
+ 	}
+
+ 	.car_wash_tab .nav-item .nav-link span {
+ 		width: 55px;
+ 		padding-right: 8px;
+ 		height: 44px
+ 	}
+
+ 	.car_wash_tab .right_tab_img img {
+ 		margin: 0
+ 	}
+
+ 	.car_wash_tab {
+ 		padding: 40px 0
+ 	}
+
+ 	.car_wash_tab .tab-content ul.list_w-50 li {
+ 		font-size: 14px
+ 	}
+
+ 	.car_wash_tab .nav-item .nav-link.active span img {
+ 		margin-top: -62px
+ 	}
+
+ 	.value_heading {
+ 		display: block
+ 	}
+
+ 	.value_heading .icon {
+ 		display: block;
+ 		margin-bottom: 15px
+ 	}
+
+ 	.value_heading h3 {
+ 		margin: 0;
+ 		font-size: 18px
+ 	}
+
+ 	.value_benifit {
+ 		padding: 70px 0 30px
+ 	}
+
+ 	.mobile_app_category .nav-tabs .nav-link span {
+ 		margin: 0 10px 0 0;
+ 		width: auto;
+ 		float: none
+ 	}
+
+ 	.left_tab ul {
+ 		justify-content: center;
+ 		display: flex;
+ 		align-items: center;
+ 		flex-wrap: wrap;
+ 		padding: 15px 0
+ 	}
+
+ 	.left_tab ul.nav-tabs li {
+ 		width: 33.33%;
+ 		text-align: center;
+ 	}
+
+ 	.left_tab .nav-tabs .nav-item.show .nav-link:after,
+ 	.left_tab .nav-tabs .nav-link.active:after,
+ 	.why_Orizen .nav-tabs .nav-link:focus:after,
+ 	.why_Orizen .nav-tabs .nav-link:hover:after {
+ 		display: none
+ 	}
+
+ 	.left_tab .nav-tabs .nav-item.show .nav-link:after,
+ 	.left_tab .nav-tabs .nav-link.active:after,
+ 	.nav-tabs .nav-link:focus:after,
+ 	.nav-tabs .nav-link:hover:after {
+ 		width: 10px;
+ 		height: 5px;
+ 		right: auto;
+ 		top: auto;
+ 		margin-top: 0;
+ 		bottom: 0;
+ 		margin-left: -5px;
+ 		left: 50%
+ 	}
+
+ 	img {
+ 		max-width: 100%
+ 	}
+
+ 	.why_Orizen .tab-content {
+ 		padding: 30px 15px 0
+ 	}
+
+ 	.tab_wrap {
+ 		margin-bottom: 15px
+ 	}
+
+ 	.why_Orizen .sub_heading {
+ 		font-size: 25px;
+ 		margin-bottom: 12px
+ 	}
+
+ 	.why_Orizen {
+ 		padding: 40px 0
+ 	}
+
+ 	.left_tab {
+ 		border-right: 0;
+ 		border-bottom: 1px solid #e9ebee
+ 	}
+
+ 	.industry_list li {
+ 		width: 25%
+ 	}
+
+ 	.andriod_banner .caption h1 {
+ 		font-size: 30px
+ 	}
+
+ 	.about_banner h2 {
+ 		font-size: 25px
+ 	}
+
+ 	.tab_text {
+ 		width: 100%;
+ 		padding-right: 0;
+ 		margin-top: 0
+ 	}
+
+ 	.tab_img {
+ 		width: 55%;
+ 		margin: 20px auto 0
+ 	}
+
+ 	.mobile_app_category {
+ 		background: #a594f9;
+ 	}
+
+ 	.mobile_app_category:after {
+ 		display: none
+ 	}
+
+ 	.mobileAD_company .section_heading h4 {
+ 		margin-right: 0;
+ 		line-height: 44px
+ 	}
+
+ 	.home_banner .caption h1 {
+ 		font-size: 40px
+ 	}
+
+ 	.home_banner .caption {
+ 		margin-top: 35px
+ 	}
+
+ 	.talk_consult_bg {
+ 		padding: 0 20px
+ 	}
+
+ 	.app_idea_img img {
+ 		margin-top: -50px;
+ 		max-width: 110px
+ 	}
+
+ 	.app_idea_img .text {
+ 		margin-left: 15px
+ 	}
+
+ 	.app_idea_img h2 {
+ 		font-size: 26px
+ 	}
+
+ 	.talk_consult_bg .btn .mr-2 {
+ 		display: none
+ 	}
+
+ 	.welcome_Orizen {
+ 		padding: 70px 0 110px
+ 	}
+
+ 	.our_services #slider {
+ 		margin-bottom: 30px
+ 	}
+
+ 	.service_left_list ul li + li {
+ 		margin-top: 45px
+ 	}
+
+ 	.row_reverse {
+ 		flex-flow: row-reverse
+ 	}
+
+ 	.service_left_list ul li {
+ 		text-align: left
+ 	}
+
+ 	.process_flow {
+ 		padding: 45px 18px
+ 	}
+
+ 	.work_stats {
+ 		padding: 40px 0
+ 	}
+
+ 	.work_stats .box span {
+ 		font-size: 28px
+ 	}
+
+ 	.industry_slider_wrapper:after {
+ 		max-width: 720px
+ 	}
+
+ 	.client {
+ 		padding-top: 55px;
+ 		padding-top: 55px
+ 	}
+
+ 	.up_down .right_text {
+ 		padding: 30px 20px;
+ 		margin-top: 70px
+ 	}
+
+ 	.solution_slider .owl-nav {
+ 		top: 5%
+ 	}
+
+ 	.demand_solution .plus_icon {
+ 		margin: 15px auto
+ 	}
+
+ 	.section_heading {
+ 		margin-bottom: 30px
+ 	}
+
+ 	.testimonial_text {
+ 		width: 100%;
+ 		padding: 0 25px 30px;
+ 		margin: 0;
+ 	}
+
+ 	.testimonial_slider .owl-nav {
+ 		left: 25px;
+ 		bottom: 10%
+ 	}
+
+ 	.testimonial .item {
+ 		padding: 20px 0 0
+ 	}
+
+ 	.feedback p:first-letter {
+ 		margin-left: 10px
+ 	}
+
+ 	.work_process {
+ 		padding: 35px 0 150px
+ 	}
+
+ 	.blog-wrap {
+ 		padding: 50px 0 0;
+ 	}
+
+ 	.process_step {
+ 		margin-top: -120px
+ 	}
+
+ 	.blog_img:after {
+ 		background: 0 0
+ 	}
+
+ 	.blog-wrap .date {
+ 		font-size: 15px
+ 	}
+
+ 	.blog-wrap h5 {
+ 		font-size: 15px;
+ 		line-height: 20px;
+ 		margin-bottom: 10px
+ 	}
+
+ 	.blog-wrap .date {
+ 		font-size: 15px
+ 	}
+
+ 	.get_quote {
+ 		padding: 40px 0
+ 	}
+
+ 	.quote_form {
+ 		margin-top: 25px;
+ 		margin-right: 0;
+ 		margin-bottom: 30px
+ 	}
+
+ 	.social_info {
+ 		max-width: 240px;
+ 		margin: 0 auto 30px
+ 	}
+
+ 	.quote_form form .form-group {
+ 		margin-bottom: 18px
+ 	}
+
+ 	.map_outer iframe {
+ 		height: auto
+ 	}
+
+ 	.process_flow ul li.process_arrow {
+ 		display: none
+ 	}
+
+ 	.process_flow ul li {
+ 		width: 25%;
+ 		padding: 0 15px
+ 	}
+
+ 	.process_flow ul {
+ 		flex-wrap: wrap
+ 	}
+
+ 	.client_slider .item img {
+ 		margin: auto
+ 	}
+
+ 	.mobile_app_page .box a {
+ 		display: flex
+ 	}
+
+ 	.mobile_app_page .box .image {
+ 		margin-bottom: 0
+ 	}
+
+ 	.border_wrap .outer {
+ 		width: 33.33%
+ 	}
+
+ 	.border_wrap .outer img,
+ 	.business_text img {
+ 		max-width: 100%
+ 	}
+
+ 	.business_text {
+ 		padding: 50px 20px
+ 	}
+
+ 	.business_text p {
+ 		color: #fff;
+ 		font-size: 23px;
+ 		margin-bottom: 22px
+ 	}
+
+ 	.md_text img {
+ 		max-width: 130px
+ 	}
+
+ 	.md_wrap .md_text h3 {
+ 		font-size: 26px
+ 	}
+
+ 	.md_wrap .md_text {
+ 		padding: 50px 16px
+ 	}
+
+ 	.app_slider .box {
+ 		margin-right: 0
+ 	}
+
+ 	.app_slider .box h3 {
+ 		font-size: 30px
+ 	}
+
+ 	.app_slider .box {
+ 		margin-bottom: 20px
+ 	}
+
+ 	.mpbileAD_cat_tab {
+ 		padding-right: 120px
+ 	}
+
+ 	.team_content .btn + .btn {
+ 		margin-left: 10px;
+ 		margin-top: 0
+ 	}
+
+ 	.box_wrapper .award_logo {
+ 		font-size: 20px
+ 	}
+
+ 	.box_wrapper .award_logo p {
+ 		font-size: 16px
+ 	}
+
+ 	.WD_service_tab_content {
+ 		padding: 0 0 20px
+ 	}
+
+ 	.ser_banner .outer {
+ 		margin-bottom: 20px;
+ 	}
+
+ 	.apps-carft-screen .nav-tabs li a {
+ 		font-size: 13px;
+ 	}
+
+ 	.apps-carft-screen .nav-tabs {
+ 		width: 28%;
+ 		flex: 0 0 28%;
+ 	}
+
+ 	.apps-carft-screen .title {
+ 		font-size: 25px;
+ 		line-height: 1.5;
+ 	}
+
+ 	.apps-carft-screen p {
+ 		font-size: 14px;
+ 	}
+
+ 	.industries .left_tab ul.nav-tabs li {
+ 		width: auto;
+ 	}
+
+ 	.industries .left_tab ul {
+ 		display: flex;
+ 		justify-content: center;
+ 		padding: 30px 0;
+ 	}
+
+ 	.left_tab .nav-tabs .nav-item.show .nav-link .testi_img img,
+ 	.left_tab .nav-tabs .nav-link.active .testi_img img {
+ 		border: 4px solid #299fda;
+ 		box-shadow: 0 0 25px rgb(247 107 29 / 60%);
+ 	}
+
+ 	.industries .left_tab {
+ 		border: 0px;
+ 	}
+ }
+
+ @media (max-width:767.98px) {
+ 	.innovative_solution .col5 {
+ 		width: 50%;
+ 	}
+
+ 	.ecommerce_industry .border_wrap .outer {
+ 		width: 33.33%;
+ 	}
+
+ 	.device_wrapper .right_align {
+ 		width: 100%;
+ 		margin-top: 10px;
+ 	}
+
+ 	.device_wrapper .left_align {
+ 		width: 100%;
+ 	}
+
+ 	.device_wrapper {
+ 		display: block
+ 	}
+
+ 	.shopify_main ul li {
+ 		width: 100%;
+ 	}
+
+ 	.device_wrapper img {
+ 		max-width: 100%;
+ 		max-height: 200px !important;
+ 		margin: 0 auto;
+ 		display: block;
+ 		width: auto;
+ 	}
+
+ 	.value_benifit_wrap {
+ 		margin-top: 20px;
+ 	}
+
+ 	.hire_developer_process ul {
+ 		flex-wrap: wrap;
+ 	}
+
+ 	.hire_developer_process ul li {
+ 		margin-bottom: 20px;
+ 	}
+
+ 	.hire_developer_process {
+ 		padding: 30px 0 0;
+ 	}
+
+ 	.Technolgy-name::after {
+ 		display: none;
+ 	}
+
+ 	.on_demand_work .portfolio_img img {
+ 		max-height: 348px;
+ 	}
+
+ 	.home_banner {
+ 		background: #eff3f6;
+ 		padding: 50px 0px 20px;
+ 	}
+
+ 	.technology_Orizen .nav-tabs li a {
+ 		font-size: 14px;
+ 		padding: 10px;
+ 		border-radius: 0px !important;
+ 	}
+
+ 	.technology_Orizen ul.nav-tabs {
+ 		display: flex;
+ 		overflow-x: scroll;
+ 		white-space: nowrap;
+ 		flex-wrap: nowrap;
+ 		margin-bottom: 5px;
+ 	}
+
+ 	.btn {
+ 		font-size: 13px;
+ 		padding: 10px;
+ 	}
+
+ 	.latest_industry {
+ 		padding: 50px 0 20px;
+ 	}
+
+ 	.career_opening_wrap .outer {
+ 		display: block;
+ 	}
+
+ 	.career_opening_wrap .outer a.btn {
+ 		display: inline-block;
+ 		margin-top: 10px;
+ 	}
+
+ 	.value_benifit_wrap .outer .bottom_text h5 {
+ 		font-size: 15px;
+ 	}
+
+ 	.value_benifit_wrap .outer .bottom_text img {
+ 		max-height: 100px;
+ 		width: auto;
+ 	}
+
+ 	.value_benifit_wrap .outer .bottom_text h5 {
+ 		margin-bottom: 15px;
+ 	}
+
+ 	.hiring_modal_slide_block .owl-nav {
+ 		width: 100%;
+ 	}
+
+ 	.hire_web_developers_list li {
+ 		width: 25%;
+ 	}
+
+ 	.dr_table,
+ 	.hiring_modal_block {
+ 		padding: 30px 0;
+ 	}
+
+ 	.thanku_caption h2 {
+ 		font-size: 40px;
+ 		margin-bottom: 20px
+ 	}
+
+ 	.hds_faq {
+ 		margin-bottom: 30px;
+ 	}
+
+ 	.career_opening_wrap {
+ 		padding: 25px 20px;
+ 	}
+
+ 	.career_opening_wrap h3 {
+ 		font-size: 25px;
+ 	}
+
+ 	.ppc_special.why_Orizen {
+ 		padding-bottom: 0;
+ 	}
+
+ 	.work_slider_main_img img {
+ 		max-height: 300px;
+ 		display: block;
+ 		margin: 0 auto 30px
+ 	}
+
+ 	.car_wash_tab .right_tab_img img {
+ 		margin: 0 auto;
+ 		max-height: 300px;
+ 		display: block;
+ 		width: auto;
+ 	}
+
+ 	.ppc_special.why_Orizen {
+ 		padding-bottom: 30px;
+ 	}
+
+ 	.best_work_wrap .slider_icon h3 {
+ 		font-size: 30px
+ 	}
+
+ 	.key_feature .tab-content ul.w-50 li {
+ 		width: 100%
+ 	}
+
+ 	.mobile_app_category .nav-tabs .nav-link img {
+ 		max-width: 45px
+ 	}
+
+ 	.mobile_app_category .nav-tabs .nav-link span {
+ 		margin: 0 10px 0 0;
+ 		width: 100px;
+ 		float: left
+ 	}
+
+ 	.mobile_app_category .right_content {
+ 		padding: 40px
+ 	}
+
+ 	.industry_list li {
+ 		width: 33.33%
+ 	}
+
+ 	.mpbileAD_cat_tab {
+ 		padding-right: 100px
+ 	}
+
+ 	header {
+ 		padding: 10px 0
+ 	}
+
+ 	.home_banner .caption {
+ 		margin: 35px 0
+ 	}
+
+ 	.talk_consult {
+ 		margin-top: 40px
+ 	}
+
+ 	.home_banner.free_consult_banner {
+ 		padding: 75px 0 0;
+ 		background-position: left top
+ 	}
+
+ 	.pt-110 {
+ 		padding-top: 40px
+ 	}
+
+ 	.talk_consult_bg {
+ 		padding: 0 20px 20px
+ 	}
+
+ 	.welcome_Orizen {
+ 		padding: 50px 0 40px
+ 	}
+
+ 	.our_services {
+ 		padding: 50px 0
+ 	}
+
+ 	.page_heading h2 {
+ 		line-height: 36px;
+ 		margin-bottom: 20px
+ 	}
+
+ 	.ser_banner .outer h3 {
+ 		font-size: 18px;
+ 	}
+
+ 	.our_services #slider {
+ 		margin: 30px auto
+ 	}
+
+ 	.looking_to a.btn .mr-2 {
+ 		display: none
+ 	}
+
+ 	.industry_slider_wrapper {
+ 		padding: 30px 0
+ 	}
+
+ 	.app_idea_img h2 {
+ 		font-size: 22px
+ 	}
+
+ 	.section_heading h4 {
+ 		font-size: 24px
+ 	}
+
+ 	.section_heading:before {
+ 		display: none;
+ 	}
+
+ 	.look_img h3,
+ 	.page_heading h2 {
+ 		font-size: 26px
+ 	}
+
+ 	.welcome_Orizen p {
+ 		line-height: 26px
+ 	}
+
+ 	.process_flow ul li {
+ 		width: 50%;
+ 		margin-bottom: 30px
+ 	}
+
+ 	.process_flow {
+ 		padding: 30px 10px 10px
+ 	}
+
+ 	.industry_slider_wrapper h3 {
+ 		font-size: 32px
+ 	}
+
+ 	.industry_slider .owl-nav {
+ 		margin-top: 10px
+ 	}
+
+ 	.client {
+ 		padding-top: 40px
+ 	}
+
+ 	.up_down {
+ 		display: block
+ 	}
+
+ 	.up_down .left_img {
+ 		width: 100%;
+ 		margin-right: 0
+ 	}
+
+ 	.up_down .right_text {
+ 		padding: 30px 20px;
+ 		margin: -40px auto 0;
+ 		z-index: 99;
+ 		position: relative;
+ 		width: 90%
+ 	}
+
+ 	.solution_slider .owl-nav {
+ 		top: auto;
+ 		text-align: center;
+ 		position: static
+ 	}
+
+ 	.up_down .right_text h3 {
+ 		font-size: 24px
+ 	}
+
+ 	.testimonial_slider .owl-nav {
+ 		left: 0;
+ 		bottom: 5%
+ 	}
+
+ 	.blog-wrap .outer {
+ 		margin: 0 auto 30px;
+ 		max-width: 402px
+ 	}
+
+ 	.blog_img:after {
+ 		background: url(../images/blog_img_after.png) no-repeat
+ 	}
+
+ 	.client_wrap {
+ 		padding: 15px;
+ 		margin-top: 0
+ 	}
+
+ 	.client_wrap .item img {
+ 		margin: auto
+ 	}
+
+ 	.get_quote {
+ 		padding: 20px 0
+ 	}
+
+ 	.demand_solution .section_heading,
+ 	.section_heading {
+ 		margin-bottom: 18px
+ 	}
+
+ 	.quote_form {
+ 		margin: 0px 0 20px;
+ 		padding: 25px 20px;
+ 	}
+
+ 	.copyright {
+ 		text-align: center
+ 	}
+
+ 	.certificate_wrapper {
+ 		margin: 30px 0
+ 	}
+
+ 	.mobileAD_banner .banner_wrapper img.mw-100 {
+ 		max-height: 390px;
+ 		display: block;
+ 		margin: 0 auto
+ 	}
+
+ 	.mobileAD_banner {
+ 		padding: 85px 0 10px
+ 	}
+
+ 	.mobile_app_page .box a {
+ 		padding: 20px 15px
+ 	}
+
+ 	.mobile_app_page .box h3 {
+ 		font-size: 18px
+ 	}
+
+ 	.border_wrap .outer {
+ 		width: 50%
+ 	}
+
+ 	.founder_bio,
+ 	.redefine_app_design {
+ 		padding: 50px 0
+ 	}
+
+ 	.accolades_industries,
+ 	.app_slider_wrapper {
+ 		padding: 50px 0 0
+ 	}
+
+ 	.business_text {
+ 		padding: 30px 20px;
+ 		border-top: 1px solid #6e7681;
+ 		border-left: 0
+ 	}
+
+ 	.md_wrap .md_text {
+ 		padding: 30px 16px
+ 	}
+
+ 	.about_banner_bottom .talk_consult_bg {
+ 		padding: 20px
+ 	}
+
+ 	.about_banner_bottom p span {
+ 		font-size: 30px
+ 	}
+
+ 	.about_banner_bottom p {
+ 		font-size: 15px
+ 	}
+
+ 	.box.blank {
+ 		display: none
+ 	}
+
+ 	.about_industry .look_img img {
+ 		margin-top: -60px
+ 	}
+
+ 	.award_bg {
+ 		padding: 30px 20px
+ 	}
+
+ 	.award_bg h2 {
+ 		font-size: 30px;
+ 		margin-bottom: 20px
+ 	}
+
+ 	.box_wrapper .award_logo {
+ 		font-size: 20px;
+ 		width: 50%;
+ 		padding: 20px
+ 	}
+
+ 	.vision_mission {
+ 		padding: 40px 0
+ 	}
+
+ 	.header_btn a i {
+ 		display: none;
+ 	}
+
+ 	.apps-carft-screen {
+ 		align-items: flex-start;
+ 		padding-top: 20px;
+ 	}
+
+ 	.apps-carft-screen .nav-tabs {
+ 		width: 36%;
+ 		flex: 0 0 36%;
+ 	}
+
+ 	.apps-carft-screen .title {
+ 		font-size: 28px;
+ 		padding-top: 15px;
+ 		line-height: 1.3;
+ 	}
+
+ 	.apps-carft-screen .small-icons {
+ 		right: auto;
+ 		left: 0;
+ 	}
+
+ 	.welcome_Orizen {
+ 		padding: 30px 0;
+ 	}
+
+ 	.mobile_app_category {
+ 		position: relative;
+ 		padding: 30px 0;
+ 	}
+
+ 	.why_Orizen {
+ 		padding: 30px 0;
+ 	}
+
+ 	.demand_solution {
+ 		padding: 30px 0;
+ 	}
+
+ 	.blog-wrap {
+ 		padding: 30px 0 0;
+ 	}
+ }
+
+ @media (max-width:575.98px) {
+ 	.ecom_inSolution .box {
+ 		display: block !important;
+ 		text-align: center;
+ 	}
+
+ 	.section_heading + .ml-auto,
+ 	.section_heading .ml-auto {
+ 		margin-top: 10px;
+ 	}
+
+ 	.ecommerce_industry .border_wrap .outer {
+ 		width: 50%;
+ 	}
+
+ 	.home_tab_panel h3 {
+ 		font-size: 20px;
+ 	}
+
+ 	.device_wrapper h2 {
+ 		font-size: 18px;
+ 		margin: 10px 0;
+ 	}
+
+ 	.hire_developer_process ul li {
+ 		width: 50%;
+ 	}
+
+ 	.trusted_wrap {
+ 		display: none;
+ 	}
+
+ 	.logo {
+ 		margin: 0
+ 	}
+
+ 	.menu {
+ 		height: auto;
+ 	}
+
+ 	.hds_faq {
+ 		margin-top: 20px;
+ 	}
+
+ 	.on_demand_work .btn {
+ 		font-size: 16px;
+ 		padding: 15px 35px;
+ 	}
+
+ 	.Technolgy-count {
+ 		display: flex;
+ 		align-items: center
+ 	}
+
+ 	.Technolgy-count ul.cours-list {
+ 		padding: 0
+ 	}
+
+ 	.Technolgy-count {
+ 		padding: 5px;
+ 	}
+
+ 	.career_opening_wrap .card-header button {
+ 		font-size: 14px;
+ 		padding: 15px;
+ 	}
+
+ 	.career_opening_wrap .card {
+ 		margin-bottom: 10px;
+ 	}
+
+ 	.on_demand_work .portfolio_img img {
+ 		max-height: 265px;
+ 	}
+
+ 	.on_demand .outer {
+ 		margin-bottom: 20px;
+ 	}
+
+ 	.on_demand_work .portfolio_img {
+ 		padding: 15px 0 10px;
+ 	}
+
+ 	.blog_img + .pb-4 {
+ 		padding-top: 15px;
+ 	}
+
+ 	.apps-carft-screen .nav-tabs li a {
+ 		padding: 10px 0;
+ 	}
+
+ 	.app_slider .owl-nav {
+ 		bottom: auto;
+ 		top: 0;
+ 		left: auto;
+ 		right: 0;
+ 	}
+
+ 	.app_slider .box {
+ 		padding: 15px;
+ 		background-color: #f7f7f7;
+ 	}
+
+ 	.accolades_industries,
+ 	.app_slider_wrapper {
+ 		padding: 30px 0 0;
+ 	}
+
+ 	.certificate_wrapper {
+ 		margin: 0 0 20px;
+ 	}
+
+ 	.technology_Orizen {
+ 		padding: 30px 0px;
+ 	}
+
+ 	.section_heading .title {
+ 		font-size: 20px;
+ 	}
+
+ 	header {
+ 		padding: 10px 0
+ 	}
+
+ 	.career_opening_wrap .outer p {
+ 		font-size: 14px;
+ 	}
+
+ 	.career_opening_wrap .outer {
+ 		margin-bottom: 15px;
+ 	}
+
+ 	.career_opening_wrap .outer h5 {
+ 		font-size: 18px;
+ 	}
+
+ 	.career_opening_wrap .outer {
+ 		padding: 15px;
+ 	}
+
+ 	.hire_five_steps_block .section_heading h4 {
+ 		font-size: 21px;
+ 		line-height: 32px;
+ 	}
+
+ 	.page_heading h3 {
+ 		font-size: 20px;
+ 	}
+
+ 	.ppc_special.why_Orizen {
+ 		padding-top: 15px;
+ 	}
+
+ 	.thanku_banner {
+ 		padding: 300px 0 20px
+ 	}
+
+ 	.thanku_caption h2 {
+ 		font-size: 34px
+ 	}
+
+ 	.thanku_caption p {
+ 		font-size: 16px
+ 	}
+
+ 	.testimonial_project img {
+ 		max-height: 300px
+ 	}
+
+ 	.value_heading h3 {
+ 		font-size: 16px
+ 	}
+
+ 	.best_work_slider {
+ 		margin-top: 20px
+ 	}
+
+ 	.best_work_slider .item .slider_icon img {
+ 		max-width: 60px
+ 	}
+
+ 	.best_work_wrap .slider_icon {
+ 		margin-bottom: 15px
+ 	}
+
+ 	.best_work_wrap .slider_icon h3 {
+ 		font-size: 23px;
+ 		margin: 0 0 0 10px
+ 	}
+
+ 	.car_wash_tab .right_tab_img img,
+ 	.work_slider_main_img img {
+ 		max-height: 200px
+ 	}
+
+ 	car_wash_tab .tab-content {
+ 		margin-top: 0
+ 	}
+
+ 	.car_wash_tab .tab-content ul.list_w-50 li {
+ 		font-size: 14px;
+ 		width: 100%;
+ 		padding-right: 0
+ 	}
+
+ 	.car_wash_tab .tab-content h3 {
+ 		font-size: 22px
+ 	}
+
+ 	.best_work_wrap,
+ 	.car_wash_tab {
+ 		padding: 30px 0
+ 	}
+
+ 	.value_heading {
+ 		display: flex
+ 	}
+
+ 	.value_heading .icon {
+ 		display: block;
+ 		margin-bottom: 0;
+ 		width: 60px;
+ 		padding-right: 10px
+ 	}
+
+ 	.mobile_app_category .nav-tabs .nav-item {
+ 		margin: 0 0 14px;
+ 		padding: 0 7px
+ 	}
+
+ 	.mobile_app_category .nav-tabs .nav-link h3 {
+ 		font-size: 15px;
+ 	}
+
+ 	.mobile_app_category .nav-tabs .nav-link {
+ 		font-size: 15px;
+ 		padding: 20px 10px
+ 	}
+
+ 	.mini_heading h2 {
+ 		font-size: 24px;
+ 		margin: 0 0 20px
+ 	}
+
+ 	.mobile_app_category .right_content {
+ 		padding: 20px
+ 	}
+
+ 	.mobile_app_category .nav-tabs .nav-link span {
+ 		width: 45px
+ 	}
+
+ 	.mobile_app_category .nav-tabs {
+ 		margin: 0 -7px
+ 	}
+
+ 	.left_tab ul li a h3 {
+ 		font-size: 14px;
+ 	}
+
+ 	.left_tab ul li a {
+ 		font-size: 14px;
+ 		padding: 12px 15px
+ 	}
+
+ 	.why_Orizen .sub_heading {
+ 		font-size: 20px
+ 	}
+
+ 	.andriod_banner .caption h1 {
+ 		font-size: 25px
+ 	}
+
+ 	.tab_text h3 {
+ 		font-size: 24px
+ 	}
+
+ 	.home_banner .caption {
+ 		margin: 0 0 10px
+ 	}
+
+ 	.banner_wrapper img.mw-100 {
+ 		width: auto;
+ 		margin: auto;
+ 		display: block
+ 	}
+
+ 	.home_banner .caption h1 {
+ 		font-size: 30px
+ 	}
+
+ 	.home_banner .caption p {
+ 		font-size: 15px
+ 	}
+
+ 	.home_banner.free_consult_banner {
+ 		padding: 95px 0 0
+ 	}
+
+ 	.home_banner {
+ 		padding: 80px 0 20px;
+ 	}
+
+ 	.welcome_Orizen {
+ 		padding: 30px 0 40px
+ 	}
+
+ 	.section_heading:before {
+ 		left: 0
+ 	}
+
+ 	.section_heading h4 {
+ 		font-size: 17px
+ 	}
+
+ 	.section_heading:before {
+ 		top: -4px
+ 	}
+
+ 	.look_img h3,
+ 	.page_heading h2 {
+ 		font-size: 22px
+ 	}
+
+ 	.welcome_img img {
+ 		width: 60%;
+ 		margin: auto
+ 	}
+
+ 	.our_services:before {
+ 		left: 0
+ 	}
+
+ 	.welcome_Orizen {
+ 		padding: 30px 0 0
+ 	}
+
+ 	.service_left_list ul li h4 {
+ 		font-size: 17px
+ 	}
+
+ 	.work_process h2 {
+ 		font-size: 23px;
+ 		margin: 0 0 25px
+ 	}
+
+ 	.work_process p {
+ 		font-size: 16px
+ 	}
+
+ 	.work_process {
+ 		padding: 25px 0 60px
+ 	}
+
+ 	.process_step {
+ 		margin-top: -50px
+ 	}
+
+ 	.cmmi_box {
+ 		max-width: 335px
+ 	}
+
+ 	.look_img img {
+ 		margin-top: -45px;
+ 		max-width: 100px
+ 	}
+
+ 	.industries {
+ 		margin-top: 60px
+ 	}
+
+ 	.industry_slider_wrapper {
+ 		margin-top: 25px
+ 	}
+
+ 	.industry_slider_wrapper:after {
+ 		max-width: 90%
+ 	}
+
+ 	.industry_slider_wrapper h3 {
+ 		font-size: 24px
+ 	}
+
+ 	.industry_slider_wrapper .text-center {
+ 		padding: 0 40px
+ 	}
+
+ 	.industry_slider_wrapper p {
+ 		font-size: 14px
+ 	}
+
+ 	.testimonial_text h3 {
+ 		font-size: 15px
+ 	}
+
+ 	.testimonial_text h4 {
+ 		font-size: 14px
+ 	}
+
+ 	.testimonial_text {
+ 		padding: 0 15px 0px;
+ 	}
+
+ 	.blog-wrap {
+ 		padding-bottom: 0
+ 	}
+
+ 	footer {
+ 		padding: 25px 0 0
+ 	}
+
+ 	.quick_links_outer p span {
+ 		font-size: 15px
+ 	}
+
+ 	footer .quick_links {
+ 		margin-bottom: 15px
+ 	}
+
+ 	.welcome_Orizen p {
+ 		line-height: 24px;
+ 		font-size: 14px
+ 	}
+
+ 	.service_left_list ul li p {
+ 		font-size: 14px;
+ 		line-height: 24px
+ 	}
+
+ 	.process_flow ul li h6 {
+ 		font-size: 18px
+ 	}
+
+ 	p {
+ 		font-size: 14px
+ 	}
+
+ 	.demand_solution .item {
+ 		padding: 0 0 20px
+ 	}
+
+ 	.up_down .right_text h3 {
+ 		font-size: 20px
+ 	}
+
+ 	.up_down .right_text p {
+ 		font-size: 14px
+ 	}
+
+ 	.testimonial_text {
+ 		width: 90%
+ 	}
+
+ 	.feedback p {
+ 		font-size: 14px
+ 	}
+
+ 	.home_banner .caption h1 {
+ 		font-size: 24px
+ 	}
+
+ 	.home_banner .caption h6 {
+ 		font-size: 18px;
+ 		margin-bottom: 15px
+ 	}
+
+ 	.mobileAD_company .section_heading h4 {
+ 		line-height: 40px
+ 	}
+
+ 	.app_slider .box h3 {
+ 		font-size: 22px
+ 	}
+
+ 	.app_slider .box h5 {
+ 		font-size: 16px;
+ 		margin-bottom: 12px
+ 	}
+
+ 	.about_banner_bottom .border-x {
+ 		border-left: 0;
+ 		border-right: 0;
+ 		border-top: 1px solid #9ca4b1;
+ 		border-bottom: 1px solid #9ca4b1
+ 	}
+
+ 	.about_banner_bottom .talk_consult_bg {
+ 		padding: 0 15px;
+ 		text-align: center
+ 	}
+
+ 	.founder_bio,
+ 	.redefine_app_design {
+ 		padding: 30px 0
+ 	}
+
+ 	.team {
+ 		padding: 40px 0 60px
+ 	}
+
+ 	.industry_list li a span {
+ 		font-size: 30px
+ 	}
+
+ 	.book_consult {
+ 		padding: 20px
+ 	}
+
+ 	.book_consult h3 {
+ 		font-size: 19px;
+ 		margin-bottom: 20px
+ 	}
+
+ 	.value_benifit {
+ 		padding: 30px 0
+ 	}
+
+ 	.portfolio_img img {
+ 		width: 100%
+ 	}
+
+ 	.section_heading .title {
+ 		font-size: 20px;
+ 	}
+
+ 	.testimonial_Orizen .left_tab ul.nav-tabs li {
+ 		width: auto;
+ 	}
+
+ 	.tab_bg h3 {
+ 		font-size: 22px;
+ 	}
+
+ 	.left_tab ul.nav-tabs li {
+ 		width: 33.33%;
+ 		text-align: center;
+ 	}
+
+ 	.tab_text h3 {
+ 		font-size: 18px;
+ 	}
+
+ 	.mobile_app_page .box .image {
+ 		max-width: 35px;
+ 	}
+
+ 	.mobile_app_page .box h3 {
+ 		font-size: 15px;
+ 	}
+
+ 	.mobile_app_page {
+ 		margin-top: 20px;
+ 	}
+
+ 	.mobile_app_page .box a {
+ 		padding: 10px 15px;
+ 		border-radius: 6px;
+ 	}
+
+ 	.border_wrap .outer p {
+ 		font-size: 14px;
+ 	}
+
+ 	.border_wrap .outer img {
+ 		width: 30%;
+ 		margin-bottom: 10px;
+ 	}
+
+ 	.MADnortProject.border_wrap .outer img {
+ 		width: auto;
+ 	}
+
+ 	.MADnortProject .overlay ul li + li {
+ 		border: 0px;
+ 	}
+
+ 	.MADnortProject .overlay ul li:last-child {
+ 		display: none;
+ 	}
+
+ 	.MADnortProject .overlay h3 {
+ 		font-size: 20px;
+ 	}
+
+ 	.latest_industry {
+ 		padding: 30px 0 10px;
+ 	}
+
+ 	.office_address p a {
+ 		word-break: break-all;
+ 	}
+
+ 	.welcome_Orizen:before {
+ 		display: none;
+ 	}
+
+ 	.andriod_banner .caption h1 span {
+ 		display: inline-block;
+ 	}
+
+ 	.MADnortProject {
+ 		margin-bottom: 25px;
+ 	}
+
+ 	.car_wash_tab h2,
+ 	.career_opening_wrap h2 {
+ 		font-size: 20px;
+ 	}
+
+ 	.apps-carft-screen .nav-tabs {
+ 		flex: 0 0 64px;
+ 		max-width: 64px;
+ 	}
+
+ 	.apps-carft-screen .nav-tabs li a {
+ 		font-size: 0;
+ 	}
+
+ 	.apps-carft-screen .title {
+ 		font-size: 20px;
+ 		padding-left: 15px;
+ 	}
+
+ 	.apps-carft-screen p {
+ 		font-size: 14px;
+ 		padding-left: 15px;
+ 	}
+
+ 	.apps-carft-screen .nav-tabs li a span {
+ 		font-size: 15px;
+ 	}
+
+ 	.demand_solution figure img {
+ 		max-height: 270px;
+ 		width: auto;
+ 		display: block;
+ 		margin: 0 auto;
+ 	}
+
+ 	.summary {
+ 		display: none;
+ 	}
+
+ 	.left_tab .nav-tabs .nav-link {
+ 		padding: 5px;
+ 	}
+
+ 	.blog-wrap .outer {
+ 		margin: 0 auto 10px;
+ 	}
+
+ 	.blog_img,
+ 	.mobile_flex .icon,
+ 	.hiring_modal_slide_block,
+ 	.welcome_img {
+ 		display: none;
+ 	}
+ }
+
+ @media (max-width:479.98px) {
+ 	.header_btn {
+ 		display: none;
+ 	}
+
+ 	.testi_img img {
+ 		width: 70px !important;
+ 		height: 70px;
+ 	}
+
+ 	.quote_form {
+ 		margin: 10px 0;
+ 		padding: 25px 20px;
+ 	}
+
+ 	.prime_logo {
+ 		padding-bottom: 15px;
+ 	}
+
+ 	.apps-carft-screen-short-ssection {
+ 		padding: 30px 0px;
+ 	}
+
+ 	#carousel figure {
+ 		width: 230px;
+ 		height: 100%;
+ 		left: 15px;
+ 		top: 4px;
+ 	}
+
+ 	.ready #carousel figure img {
+ 		border-radius: 25px;
+ 		height: 486px;
+ 		width: 100%;
+ 	}
+
+ 	.apps-craft-screenshort {
+ 		width: 250px;
+ 		height: 475px;
+ 		margin: 0 auto 0;
+ 		transform: scale(1);
+ 	}
+
+ 	.app-screen-mobile-image {
+ 		width: 250px;
+ 		height: 500px;
+ 		top: 0;
+ 		background-size: 100% 100%;
+ 	}
+
+ 	.content-margin-top {
+ 		margin: 20px 0 0px;
+ 	}
+
+ 	.MADnortProject .overlay ul li {
+ 		font-size: 14px;
+ 	}
+
+ 	.innovative_solution .box img {
+ 		max-width: 45px;
+ 	}
+
+ 	.innovative_solution .box.is_tabBox {
+ 		padding: 10px !important;
+ 	}
+
+ 	.innovative_solution .box.is_tabBox h5 {
+ 		font-size: 15px;
+ 	}
+
+ 	.welcome_Orizen.mobileAD_company {
+ 		margin-bottom: 15px;
+ 	}
+
+ 	.mpbileAD_cat_tab {
+ 		max-width: 100%
+ 	}
+
+ 	.ser_banner .outer img {
+ 		max-width: 25px;
+ 		max-height: 30px;
+ 	}
+
+ 	.ser_banner .outer h3 {
+ 		font-size: 15px;
+ 	}
+
+ 	.ser_banner .outer h3 span {
+ 		font-size: 12px;
+ 	}
+
+ 	.hire_web_developers_list li {
+ 		width: 33.33%;
+ 		padding: 0 4px 10px;
+ 	}
+
+ 	.hwd_list_title {
+ 		font-size: 14px;
+ 	}
+
+ 	.hwd_list_img > img {
+ 		max-width: 62% !important;
+ 	}
+
+ 	.hwd_list_img {
+ 		width: 80px;
+ 		height: 80px;
+ 	}
+
+ 	.career_opening_wrap {
+ 		padding: 15px;
+ 	}
+
+ 	.bucket_check {
+ 		padding: 20px;
+ 	}
+
+ 	.car_wash_tab .nav-item {
+ 		width: 33.33%;
+ 		margin: 0;
+ 		padding: 0 4px
+ 	}
+
+ 	.career_opening_wrap .card {
+ 		margin-bottom: 10px;
+ 	}
+
+ 	.career_opening_wrap h3 {
+ 		font-size: 20px;
+ 	}
+
+ 	.career_opening_wrap .card-header button {
+ 		font-size: 15px;
+ 	}
+
+ 	.car_wash_tab .nav-item .nav-link {
+ 		font-size: 16px;
+ 		padding: 10px;
+ 		line-height: 20px;
+ 		text-align: center;
+ 		display: block
+ 	}
+
+ 	.car_wash_tab .nav-item + .nav-item {
+ 		margin: 0
+ 	}
+
+ 	.car_wash_tab .nav-item .nav-link span {
+ 		display: none
+ 	}
+
+ 	.mobile_app_category .nav-tabs .nav-link span {
+ 		width: 35px
+ 	}
+
+ 	.mobile_app_category .nav-tabs .nav-link img {
+ 		max-width: 30px
+ 	}
+
+ 	.mobile_app_category .nav-tabs .nav-link h3,
+ 	.mobile_app_category .nav-tabs .nav-link {
+ 		font-size: 13px
+ 	}
+
+ 	.left_tab ul {
+ 		padding: 10px 0
+ 	}
+
+ 	.left_tab ul li a {
+ 		font-size: 13px;
+ 	}
+
+ 	.left_tab ul li a {
+ 		font-size: 13px;
+ 		padding: 12px 10px
+ 	}
+
+ 	.industry_list li {
+ 		width: 50%
+ 	}
+
+ 	.team_content .btn + .btn {
+ 		margin-left: 0;
+ 		margin-top: 10px
+ 	}
+
+ 	.vision_mission {
+ 		padding: 30px 0
+ 	}
+
+ 	.business_text p {
+ 		font-size: 18px
+ 	}
+
+ 	.founder_bio,
+ 	.redefine_app_design {
+ 		padding: 30px 0
+ 	}
+
+ 	.border_wrap .outer {
+ 		margin-right: 0;
+ 		margin-left: 0 padding:20px 10px !important;
+ 	}
+
+ 	.accolades_industries,
+ 	.app_slider_wrapper {
+ 		padding: 30px 0 0
+ 	}
+
+ 	.app_idea_img .text {
+ 		padding-top: 15px
+ 	}
+
+ 	.app_idea_img h2 {
+ 		font-size: 18px
+ 	}
+
+ 	.app_idea_img p {
+ 		font-size: 14px
+ 	}
+
+ 	.look_img h3,
+ 	.page_heading h2 {
+ 		font-size: 20px
+ 	}
+
+ 	.section_name {
+ 		display: none
+ 	}
+
+ 	.service_left_list ul li + li {
+ 		margin-top: 30px
+ 	}
+
+ 	.our_services {
+ 		padding: 40px 0 20px
+ 	}
+
+ 	.look_img p,
+ 	.work_process p {
+ 		font-size: 14px
+ 	}
+
+ 	.process_flow ul li h6 {
+ 		font-size: 16px
+ 	}
+
+ 	.cmmi_box {
+ 		max-width: 300px;
+ 		padding: 0 10px
+ 	}
+
+ 	.industry_slider_wrapper h3 {
+ 		font-size: 22px
+ 	}
+
+ 	.industry_slider_wrapper {
+ 		padding: 20px 0 10px
+ 	}
+
+ 	.client .section_heading {
+ 		margin-bottom: 20px
+ 	}
+
+ 	.demand_solution {
+ 		padding: 30px 0px 20px;
+ 	}
+
+ 	.feedback {
+ 		padding: 0
+ 	}
+
+ 	.feedback:before {
+ 		top: -17px;
+ 	}
+
+ 	.quote_btn ul.footer_social {
+ 		padding: 0;
+ 		display: block;
+ 		margin: 13px 0 0
+ 	}
+
+ 	.welcome_Orizen:before {
+ 		width: 100%;
+ 		bottom: 0
+ 	}
+
+ 	.border_wrap .outer img {
+ 		width: 50%
+ 	}
+
+ 	.border_wrap .outer {
+ 		padding: 14px 15px 0
+ 	}
+ }

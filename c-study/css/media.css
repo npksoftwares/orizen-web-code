@@ -1,0 +1,299 @@
+@media (max-width: 1679.98px) {
+	.large-circle {
+		width: 800px;
+		height: 800px;
+	}
+
+	.app_mockup-main:after {
+		left: 0;
+	}
+
+	.app_mockup-main:before {
+		right: 0;
+	}
+
+	.large-circle:after {
+		height: 400px;
+		width: 400px;
+	}
+
+	.large-circle:before {
+		height: 400px;
+		width: 400px;
+	}
+
+}
+
+@media (max-width: 1199.98px) {
+	img {
+		height: auto;
+	}
+
+	.large-circle {
+		width: 640px;
+		height: 640px;
+	}
+
+	.large-circle:after {
+		height: 320px;
+		width: 320px;
+	}
+
+	.large-circle:before {
+		height: 320px;
+		width: 320px;
+	}
+
+	.banner .caption h1 {
+		font-size: 54px;
+	}
+
+	.app_mockup-main:after,
+	.app_mockup-main:before {
+		width: 220px;
+		height: 220px;
+	}
+}
+
+@media (max-width: 991.98px) {
+	.large-circle {
+		width: 480px;
+		height: 480px;
+	}
+
+	.banner .caption h1 {
+		font-size: 43px;
+		line-height: 1.3;
+	}
+
+	.banner {
+		padding: 40px 0 30px 0px;
+	}
+
+	.logo-top img {
+		max-width: 180px;
+	}
+
+	.banner .caption h6 {
+		font-size: 16px;
+	}
+
+	.app_info h4 span {
+		font-size: 16px;
+	}
+
+	.app_info h4 {
+		font-size: 14px;
+	}
+
+	.stack-list li a {
+		font-size: 14px;
+	}
+
+	.case-study-box figcaption {
+		padding: 0px 36px 24px 36px;
+		z-index: 9;
+	}
+
+	.case-study-box .logo {
+		width: 120px;
+		margin-top: 24px;
+	}
+
+	.h2,
+	h2 {
+		font-size: 1.6rem;
+	}
+
+	.technology {
+		padding: 60px 0;
+	}
+
+}
+
+@media (max-width: 767.98px) {
+	.large-circle {
+		width: 360px;
+		height: 360px;
+	}
+
+	.logo-top img {
+		max-width: 160px;
+	}
+
+	.banner .caption h1 {
+		font-size: 30px;
+	}
+
+	.large-circle:after,
+	.large-circle:before {
+		height: 210px;
+		width: 210px;
+	}
+
+	.banner {
+		padding: 36px 0 24px 0px;
+	}
+
+	.app_info h4 {
+		padding: 15px 0;
+	}
+
+	.app_mockup-main:after,
+	.app_mockup-main:before {
+		width: 164px;
+		height: 164px;
+	}
+
+	.app_mockup {
+		padding: 40px;
+	}
+
+	.h2,
+	h2 {
+		font-size: 1.4rem;
+	}
+
+	p {
+		line-height: 1.6;
+		font-size: 14px;
+	}
+
+	.workaproach ul li {
+		font-size: 15px;
+	}
+
+	.technology {
+		padding: 40px 0;
+	}
+
+	.screen-press {
+		text-align: center;
+	}
+
+	.case-study-box {
+		margin: 0 0 15px 0;
+	}
+
+}
+
+@media (max-width: 575.98px) {
+	.logo-top img {
+		max-width: 100px;
+	}
+
+	.app_mockup-main:after,
+	.app_mockup-main:before {
+		display: none;
+	}
+
+	.banner {
+		padding: 86px 0 10px 0px;
+	}
+
+	.banner .caption {
+		text-align: center;
+		padding: 0 24px;
+	}
+
+	.banner_mobile {
+		text-align: center;
+	}
+
+	.large-circle,
+	.small-icons {
+		display: none;
+	}
+
+	.banner_mobile img {
+		max-height: initial;
+		max-width: 300px;
+		float: none !important;
+	}
+
+	.strong-detail p {
+		font-size: 16px;
+	}
+
+	p {
+		font-size: 13px;
+	}
+
+	.h4,
+	h4 {
+		font-size: 1.2rem;
+	}
+
+	.case-study-box .logo {
+		width: 100px;
+		margin-top: 24px;
+	}
+
+	.case-study-box figcaption {
+		padding: 0px 20px 15px 20px;
+		z-index: 9;
+	}
+
+	.case-study-box figcaption h4 {
+		font-size: 18px;
+	}
+
+	.moreinfo-arrow {
+		width: 36px;
+		height: 36px;
+	}
+
+	.app-store img {
+		max-width: 120px;
+	}
+
+	.h2,
+	h2 {
+		font-size: 1.2rem;
+	}
+
+	.tech-stack {
+		padding-right: 0 !important;
+		max-width: calc(100% - 32px);
+	}
+
+	.tech-box-card figure {
+		flex: 0 0 32px;
+		max-width: 32px;
+	}
+
+	.stack-list li a {
+		font-size: 13px;
+	}
+
+	.tech-stack strong {
+		font-size: 18px;
+	}
+
+	.banner .caption h1 {
+		font-size: 20px;
+	}
+
+	.app_info h4 span {
+		font-size: 15px;
+	}
+
+	.app_mockup {
+		padding: 32px;
+	}
+
+}
+
+@media (max-width: 479.98px) {
+	.case-study-box .logo {
+		width: 80px;
+		margin-top: 18px;
+	}
+
+	.banner_mobile img {
+		max-width: 100%;
+	}
+
+
+
+}

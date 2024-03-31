@@ -1,0 +1,2681 @@
+body {
+	font-weight: 400;
+	color: #21223e;
+	font-size: 16px
+}
+
+.btn {
+	border-radius: 10px;
+	background-color: #299fda;
+	color: #fff;
+	font-size: 15px;
+	font-weight: 300;
+	padding: 12px 20px
+}
+
+.btn-white {
+	background: #fff;
+	color: #299fda
+}
+
+.btn .right_icon {
+	margin-left: 12px;
+	transition: .4s ease all
+}
+
+.btn:hover .right_icon {
+	margin-left: 26px
+}
+
+.btn:active,
+.btn:focus,
+.btn:hover {
+	color: #fff;
+	background: #1f2a3a
+}
+
+.btn-white:active,
+.btn-white:focus,
+.btn-white:hover {
+	color: #299fda;
+	background: #fff
+}
+
+a {
+	transition: .4s ease all;
+	text-decoration: none;
+	color: #001fff
+}
+
+a:active,
+a:focus,
+a:hover {
+	text-decoration: none
+}
+
+img {
+	max-width: 100%;
+	height: auto
+}
+
+.form-control:active,
+.form-control:focus,
+button:active,
+button:focus {
+	outline: 0;
+	box-shadow: none
+}
+
+header {
+	padding: 20px 0;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	transition: .6s ease all;
+	background: #fff;
+	box-shadow: 0 3px 7px 0 rgba(0, 0, 0, .1);
+	z-index: 99
+}
+
+.logo img {
+	max-width: 55px;
+	transition: .6s ease all
+}
+
+header.fixed_header {
+	background: #fff;
+	z-index: 99;
+	padding: 4px 0;
+	-webkit-box-shadow: 0 3px 7px 0 rgba(0, 0, 0, .2);
+	box-shadow: 0 3px 7px 0 rgba(0, 0, 0, .2)
+}
+
+header img.logo_big {
+	width: 0
+}
+
+header.fixed_header img.logo_icon {
+	width: 0
+}
+
+header.fixed_header img.logo_big {
+	width: 250px;
+	max-width: 100%
+}
+
+.mobile_menu {
+	display: none
+}
+
+.home_banner {
+	padding: 85px 0 125px;
+	background-color: #f7f7f7
+}
+
+.landing_banner_type {
+	display: inline-flex;
+	align-items: flex-end;
+	min-height: 90px
+}
+
+.home_banner .caption {
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	transform: translate(0, -50%)
+}
+
+.home_banner .caption h1 {
+	color: #1f2a3a;
+	font-size: 50px;
+	font-weight: 400;
+	text-transform: uppercase
+}
+
+.landing_banner_type #reg_ai h1 {
+	font-weight: 700;
+	color: #299fda
+}
+
+.home_banner .caption p {
+	color: #21223e;
+	font-size: 18px;
+	font-weight: 400
+}
+
+.home_banner .caption a.btn {
+	margin-top: 12px
+}
+
+.talk_consult {
+	z-index: 9;
+	margin-top: -70px;
+	position: relative
+}
+
+.talk_consult_bg {
+	background: #1f2a3a;
+	padding: 0 25px 0 40px;
+	border-radius: 20px;
+	box-shadow: 0 0 20px 0 rgba(57, 73, 99, .15)
+}
+
+.app_idea_img {
+	display: flex;
+	align-items: center
+}
+
+.app_idea_img h2 {
+	color: #fff;
+	font-size: 32px;
+	font-weight: 500
+}
+
+.app_idea_img img {
+	margin-top: -115px
+}
+
+.app_idea_img .text {
+	margin-left: 24px
+}
+
+.app_idea_img p {
+	color: #fff;
+	font-size: 15px;
+	margin: 0
+}
+
+.welcome_Orizen p {
+	color: #21223e;
+	font-size: 15px;
+	line-height: 30px
+}
+
+.welcome_Orizen {
+	padding: 60px 0 50px;
+	position: relative
+}
+
+.section_heading {
+	margin-bottom: 50px;
+	position: relative
+}
+
+.section_heading:before {
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: -183px 0;
+	width: 79px;
+	height: 61px;
+	position: absolute;
+	content: "";
+	left: -85px;
+	top: -15px;
+	z-index: 0
+}
+
+.section_heading h2 {
+	font-size: 28px;
+	margin-bottom: 0;
+	color: #1f2a3a;
+	font-weight: 600
+}
+
+.section_heading strong {
+	color: #299fda;
+	font-weight: 700
+}
+
+.section_heading span {
+	border-bottom: 1px solid #299fda;
+	z-index: 9;
+	position: relative
+}
+
+.page_heading h2 {
+	line-height: 54px;
+	color: #1f2a3a;
+	font-size: 30px;
+	font-weight: 500
+}
+
+.section_name {
+	background: url(mycdn/images/section_left_bg.png) no-repeat center top;
+	position: absolute;
+	width: 122px;
+	height: 296px;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	bottom: 0
+}
+
+.sec_name_right {
+	right: 0;
+	background: url(mycdn/images/section_right_bg.png) no-repeat center top
+}
+
+.sec_name_left {
+	left: 0
+}
+
+.section_name h6 {
+	color: #fff;
+	font-size: 20px;
+	margin: 0;
+	font-weight: 400;
+	transform: rotate(-90deg);
+	position: absolute;
+	bottom: 60px
+}
+
+.our_services {
+	position: relative;
+	background: url(mycdn/images/service_bg.png) no-repeat right 10% top 35px;
+	padding-bottom: 90px
+}
+
+.service_left_list ul {
+	padding: 0
+}
+
+.service_left_list ul li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	align-items: center
+}
+
+.service_left_list ul li + li {
+	margin-top: 75px
+}
+
+.service_left_list ul li h3 {
+	color: #1f2a3a;
+	font-size: 20px
+}
+
+.service_left_list ul li p {
+	color: #21223e;
+	font-size: 15px;
+	line-height: 26px;
+	margin: 0
+}
+
+.process_step {
+	padding: 50px 0 0
+}
+
+.process_flow {
+	border-radius: 30px;
+	background-color: #fff;
+	box-shadow: 0 6px 38px 0 rgba(57, 73, 99, .15);
+	padding: 85px 18px
+}
+
+.process_flow ul {
+	padding: 0;
+	margin: 0;
+	display: flex
+}
+
+.process_flow ul li {
+	list-style: none;
+	margin: 0;
+	text-align: center;
+	width: 25%;
+	padding: 0 5px
+}
+
+.process_flow ul img {
+	display: block;
+	margin: 0 auto;
+	max-width: 100%
+}
+
+.process_flow ul li span {
+	border-radius: 50%;
+	background-color: #1f2a3a;
+	width: 32px;
+	height: 32px;
+	margin: 30px auto 7px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color: #fff;
+	font-weight: 500;
+	font-size: 17px
+}
+
+.process_flow ul li h6 {
+	color: #1f2a3a;
+	font-size: 20px;
+	font-weight: 600;
+	margin: 0
+}
+
+.process_flow ul li.process_arrow {
+	margin-top: 65px
+}
+
+.work_stats {
+	padding: 60px 0
+}
+
+.industries .banner_bootom {
+	margin: 0;
+	padding-bottom: 30px
+}
+
+.work_stats .box {
+	height: 100%;
+	border-radius: 4px;
+	background-color: #fff;
+	border-radius: 8px;
+	box-shadow: 0 0 80px 0 rgba(65, 65, 65, .1);
+	padding: 35px 55px;
+	text-align: center
+}
+
+.work_stats .box .icon {
+	display: block;
+	margin: 0 auto 26px
+}
+
+.work_stats .box span {
+	color: #1f2a3a;
+	font-size: 40px;
+	font-weight: 500;
+	display: block
+}
+
+.work_stats .box h6 {
+	color: #21223e;
+	font-size: 18px;
+	margin: 0;
+	font-weight: 400
+}
+
+.cmmi_box {
+	display: flex;
+	box-shadow: 0 0 11px -2px #d9d9d9;
+	align-items: center;
+	max-width: 485px;
+	margin: 0 auto;
+	border-width: 1px;
+	border-color: #eceff2;
+	border-style: solid;
+	border-radius: 13px;
+	background-color: #fff;
+	padding: 0 20px;
+	justify-content: center
+}
+
+.cmmi_badge {
+	margin-right: -10px
+}
+
+.cmmi_logo h6 {
+	color: #1f2a3a;
+	font-size: 14px;
+	font-weight: 400
+}
+
+.certified_cmmi:after {
+	background: #e1e1e1;
+	height: 1px;
+	width: 100%;
+	left: 0;
+	top: 50%;
+	position: absolute;
+	content: "";
+	z-index: -1
+}
+
+.industries {
+	margin-top: 40px
+}
+
+.client {
+	padding-top: 20px;
+	margin-bottom: -60px;
+	z-index: 9;
+	position: relative
+}
+
+.client .section_heading {
+	margin-bottom: 30px
+}
+
+.client_wrap {
+	margin-top: 25px;
+	border-radius: 20px;
+	background-color: #fff;
+	box-shadow: 0 0 20px 0 #e1e1e1;
+	padding: 20px
+}
+
+.demand_solution {
+	padding: 60px 0;
+	background: #fff
+}
+
+.demand_solution .item {
+	padding: 0 25px 20px 0
+}
+
+.solution_slider .owl-nav {
+	position: absolute;
+	right: 30px;
+	top: 15%
+}
+
+.demand_solution .solution_slider .owl-nav button {
+	padding: 10px !important
+}
+
+.demand_solution .section_heading {
+	margin-bottom: 30px
+}
+
+.solution_slider_wrapper {
+	margin-top: 30px
+}
+
+.testimonial .item {
+	padding: 20px 0 0 20px
+}
+
+.testi_img img {
+	width: 90px !important;
+	height: 90px;
+	border-radius: 100%
+}
+
+.left_tab ul {
+	border: 0;
+	display: block;
+	padding: 30px 0
+}
+
+.left_tab ul.nav-tabs li {
+	margin: 0 0 6px;
+	border: 0
+}
+
+.testi_img {
+	text-align: center;
+}
+
+.left_tab .nav-tabs .nav-item.show .nav-link,
+.left_tab .nav-tabs .nav-link.active {
+	border: 0;
+	background: none;
+}
+
+.left_tab .nav-tabs .nav-link {
+	border: 0;
+	position: relative
+}
+
+.left_tab .nav-tabs .nav-item.show .nav-link .testi_img img,
+.left_tab .nav-tabs .nav-link.active .testi_img img {
+	border: 2px solid #299fda;
+	box-shadow: 0 0 25px rgb(247 107 29 / 40%)
+}
+
+.left_tab .nav-tabs .nav-link .testi_img img {
+	border: 2px solid transparent
+}
+
+.left_tab .nav-tabs .nav-item.show .nav-link:after,
+.left_tab .nav-tabs .nav-link.active:after {
+	width: 5px;
+	height: 50px;
+	right: -3px;
+	top: 50%;
+	position: absolute;
+	content: "";
+	background: #299fda;
+	margin-top: -25px
+}
+
+.left_tab {
+	height: 100%;
+	border-right: 1px solid #e9ebee
+}
+
+.why_Orizen .tab-content {
+	padding: 30px 30px 30px 0
+}
+
+.tab_bg {
+	border-radius: 10px;
+	background-color: #fff;
+	box-shadow: 0 0 20px 0 rgba(57, 73, 99, .15);
+	background-image: url(mycdn/images/ios_android/tab_bg.png);
+	background-repeat: no-repeat;
+	background-position: left bottom
+}
+
+.testimonial_text h3 {
+	color: #1f2a3a;
+	font-size: 24px;
+	font-weight: 600
+}
+
+.testimonial_text h4 {
+	color: #299fda;
+	font-size: 16px;
+	font-weight: 500
+}
+
+.rating {
+	color: #ffb72d;
+	font-size: 12px;
+	margin-bottom: 12px
+}
+
+testimonial_text {
+	background: url(mycdn/images/quotes_bg.png) no-repeat center top
+}
+
+.summary {
+	background: #f7f7f7;
+	padding: 40px;
+	border-radius: 15px
+}
+
+.summary ul {
+	padding: 0;
+	margin: 30px 0 0;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap
+}
+
+.summary ul li {
+	list-style: none;
+	justify-content: space-between;
+	color: #8f8f8f
+}
+
+.summary ul li span {
+	display: block;
+	font-weight: 600;
+	color: #303030;
+	margin-bottom: 6px
+}
+
+.feedback {
+	position: relative;
+	padding: 20px 0 0
+}
+
+.feedback p {
+	color: #21223e;
+	font-size: 15px;
+	line-height: 26px;
+	position: relative
+}
+
+.feedback:before {
+	position: absolute;
+	content: "";
+	left: 0;
+	top: 0;
+	width: 20px;
+	height: 17px;
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: -427px 0
+}
+
+.feedback p:after {
+	position: absolute;
+	content: "";
+	bottom: 0;
+	width: 20px;
+	height: 17px;
+	margin-left: 10px;
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: -402px 0
+}
+
+.testimonial_slider .owl-nav {
+	position: absolute;
+	bottom: 15%;
+	left: 28%
+}
+
+.testimonial_slider .owl-nav button img {
+	padding: 10px
+}
+
+.blog-wrap {
+	padding: 50px 0 30px
+}
+
+.blog_img img {
+	max-width: 100%
+}
+
+.blog_img {
+	position: relative;
+	margin-bottom: 20px;
+	overflow: hidden;
+	border-radius: 10px 10px 0 0
+}
+
+.blog_img:after {
+	position: absolute;
+	content: "";
+	background: url(mycdn/images/blog_img_after.png) no-repeat;
+	width: 100%;
+	height: 52px;
+	bottom: -1px;
+	left: 0
+}
+
+.blog-wrap .date {
+	color: #475366;
+	font-size: 14px;
+	margin-bottom: 6px;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 1.5px
+}
+
+.blog-wrap h5 .link {
+	color: #1f2a3a;
+	font-size: 18px;
+	font-weight: 600;
+	line-height: 29px;
+	margin-bottom: 15px
+}
+
+.blog-wrap h5 .link:hover {
+	color: #299fda
+}
+
+.blog-wrap .link {
+	color: #299fda;
+	font-size: 15px
+}
+
+.blog-wrap .outer {
+	background-color: #fff;
+	box-shadow: 0 0 20px 0 rgba(57, 73, 99, .15);
+	border-radius: 10px
+}
+
+.prime_logo {
+	padding-bottom: 30px
+}
+
+.get_quote {
+	padding: 60px 0;
+	background: #fff
+}
+
+.quote_form {
+	margin-top: 0;
+	margin-right: 0;
+	position: relative;
+	border-radius: 10px;
+	background-color: #fff;
+	box-shadow: 0 1px 18px 0 rgb(85 94 104 / 18%);
+	padding: 45px 20px
+}
+
+.client_rating {
+	background: url(mycdn/images/rating_bg.png) no-repeat center top;
+	color: #21223e;
+	font-size: 18px;
+	font-weight: 600;
+	text-align: center;
+	padding: 75px 30px 42px;
+	margin-bottom: 11px
+}
+
+.quote_form .left_sec p {
+	color: #21223e;
+	font-size: 18px;
+	font-weight: 400
+}
+
+.quote_form .left_sec p b {
+	font-weight: 600
+}
+
+.social_info a {
+	font-size: 13px;
+	color: #fff;
+	background: #1f2a3a;
+	margin-bottom: 10px;
+	display: flex;
+	transition: .4s ease all;
+	align-items: center
+}
+
+.social_info a img {
+	max-width: 25px
+}
+
+.social_info a span {
+	margin-right: 6px;
+	padding: 10px 6px;
+	display: inline-block;
+	border-right: 1px solid #fff
+}
+
+.social_info a:hover {
+	background: #299fda;
+	color: #fff;
+	text-decoration: none
+}
+
+.form-control {
+	color: #737373;
+	font-size: 15px;
+	font-weight: 400;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #e7e7e7;
+	border-radius: 5px;
+	background-color: #fff;
+	padding: 10px 15px;
+	height: auto
+}
+
+.quote_form form textarea {
+	height: 75px
+}
+
+.quote_form form .form-group {
+	margin-bottom: 22px
+}
+
+footer {
+	background: #299fda;
+	padding: 55px 0 0;
+}
+
+footer h5 {
+	color: #fff;
+	font-size: 18px;
+	font-weight: 400;
+	margin-bottom: 15px
+}
+
+.country_flag {
+	color: #fff;
+	font-size: 14px;
+	margin-bottom: 5px
+}
+
+.country_flag img {
+	margin-right: 5px
+}
+
+.office_address p {
+	color: #fff;
+	font-size: 14px;
+	padding: 0;
+	margin: 0
+}
+
+.office_address p a {
+	color: #fff;
+	font-size: 12px;
+	padding: 0;
+	display: block;
+	margin: 0
+}
+
+.office_address p a:hover {
+	color: #007bff
+}
+
+.office_address {
+	margin-bottom: 30px
+}
+
+.contact_info {
+	border-bottom: 1px solid #5f6b80;
+	margin-bottom: 30px
+}
+
+.quick_links ul:after {
+	clear: both;
+	display: block;
+	content: ""
+}
+
+.quick_links ul li {
+	width: 50%;
+	float: left;
+	padding-right: 10px;
+	margin-bottom: 10px
+}
+
+.quick_links ul li a {
+	color: #fff;
+	font-size: 16px
+}
+
+.quick_links_outer {
+	padding-bottom: 24px;
+	margin-bottom: 24px;
+	border-bottom: 1px solid #5f6b80
+}
+
+.quick_links_outer p {
+	font-size: 15px;
+	color: #fff
+}
+
+.quick_links_outer p span {
+	display: block;
+	color: #fff;
+	font-size: 18px;
+	font-weight: 400;
+	margin-bottom: 12px
+}
+
+.footer_social {
+	display: inline-block
+}
+
+.footer_social li {
+	display: inline-block;
+	margin-right: 6px
+}
+
+.footer_social li a {
+	color: #fff;
+	border: 1px solid #fff;
+	border-radius: 4px;
+	width: 30px;
+	display: block;
+	height: 30px;
+	text-align: center;
+	padding-top: 2px;
+	font-size: 17px
+}
+
+.footer_social li a:hover {
+	background: #f78f1e;
+	border-color: #f78f1e;
+	color: #fff
+}
+
+.rating_wrapper p.rate {
+	color: #fff
+}
+
+.rating_wrapper .rate span {
+	color: #e5cd00;
+	margin-right: 6px;
+	position: relative
+}
+
+.rating_wrapper .rate span:after {
+	position: absolute;
+	content: "";
+	width: 4px;
+	height: 17px;
+	right: -1px;
+	top: 0;
+	background: #1f2a3a
+}
+
+.rating_wrapper p {
+	color: #fff
+}
+
+.quick_links ul li {
+	width: 50%;
+	float: left;
+	padding-right: 10px;
+	margin-bottom: 4px;
+	list-style: none
+}
+
+.quick_links ul {
+	margin: 0;
+	padding: 0
+}
+
+.copyright {
+	background: #1f2a3a;
+	padding: 12px 0
+}
+
+.blog_slider p {
+	font-size: 14px;
+	line-height: 25px;
+	color: #606060
+}
+
+.copyright a,
+.copyright p {
+	margin: 0;
+	color: #fff;
+	font-size: 18px
+}
+
+.certificate_wrapper {
+	margin: 30px 0 45px
+}
+
+.latest_industry {
+	padding: 50px 0 20px;
+	background: #f7f7f7
+}
+
+.industry_list {
+	margin: 0 -15px;
+	padding: 0
+}
+
+.industry_list li {
+	float: left;
+	width: 16.66%;
+	padding: 0 15px 30px;
+	list-style: none
+}
+
+.industry_list li a {
+	color: #666;
+	font-size: 14px;
+	background-color: #fff;
+	-webkit-box-shadow: 0 0 7.68px .32px rgba(155, 147, 147, .2);
+	box-shadow: 0 0 7.68px .32px rgba(155, 147, 147, .2);
+	text-align: center;
+	display: block;
+	padding: 25px 20px;
+	text-transform: capitalize;
+	position: relative;
+	-webkit-transition: .4s ease all;
+	transition: .4s ease all;
+	top: 0;
+	left: 0
+}
+
+.industry_list li a span {
+	display: block;
+	font-size: 44px
+}
+
+.industry_list li a:hover {
+	background: #fff;
+	-webkit-box-shadow: -20px -21px 13px 0 rgba(0, 0, 0, .1);
+	box-shadow: -20px -21px 13px 0 rgba(0, 0, 0, .1);
+	top: 10px;
+	left: 10px;
+	-webkit-transition: .4s ease all;
+	transition: .4s ease all;
+	color: #299fda;
+}
+
+.industry_list:after {
+	clear: both;
+	display: block;
+	content: ""
+}
+
+.arrow_white {
+	width: 26px;
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: -63px 0;
+	height: 9px;
+	display: inline-block;
+	margin-left: 10px
+}
+
+.arrow_orange {
+	width: 26px;
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: -32px 0;
+	height: 9px;
+	display: inline-block;
+	margin-left: 10px
+}
+
+.msg_icon {
+	width: 21px;
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: -400px -24px;
+	height: 18px;
+	display: inline-block
+}
+
+i.skype {
+	width: 30px;
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: -315px -28px;
+	height: 29px;
+	display: inline-block
+}
+
+i.mail {
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: -314px 0;
+	width: 31px;
+	height: 21px;
+	display: inline-block
+}
+
+.innovate_icon1 {
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: -156px bottom;
+	width: 68px;
+	height: 87px;
+	display: block
+}
+
+.innovate_icon2 {
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: -234px bottom;
+	width: 68px;
+	height: 87px;
+	display: block
+}
+
+.innovate_icon3 {
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: -312px bottom;
+	width: 68px;
+	height: 87px;
+	display: block
+}
+
+.innovate_icon4 {
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: -390px bottom;
+	width: 68px;
+	height: 87px;
+	display: block
+}
+
+.innovate_icon5 {
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: 0 bottom;
+	width: 68px;
+	height: 87px;
+	display: block
+}
+
+.innovate_icon6 {
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: -78px bottom;
+	width: 68px;
+	height: 87px;
+	display: block
+}
+
+.info_icon {
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: -268px 0;
+	width: 40px;
+	height: 40px
+}
+
+.flag_us {
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: -392px -50px;
+	width: 24px;
+	height: 19px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 5px
+}
+
+.flag_uk {
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: -359px -50px;
+	width: 24px;
+	height: 19px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 5px
+}
+
+.flag_singapore {
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: -424px -50px;
+	width: 24px;
+	height: 19px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 5px
+}
+
+.flag_india {
+	background-image: url(mycdn/images/sprite_home.png);
+	background-repeat: no-repeat;
+	background-position: -281px -50px;
+	width: 24px;
+	height: 19px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 5px
+}
+
+.testimonial_project img {
+	width: auto !important
+}
+
+.testimonial_project picture {
+	float: right
+}
+
+.banner_bootom {
+	margin-top: -45px
+}
+
+.banner_bootom_wrap {
+	z-index: 9;
+	position: relative;
+	border-radius: 20px;
+	background-color: #fff;
+	box-shadow: 0 0 20px 0 #d3d3d3;
+	padding: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center
+}
+
+.banner_bootom_wrap .owl-item img,
+.client_wrap .owl-item img {
+	transition: .4s ease all;
+	max-width: 88px;
+	filter: grayscale(1);
+	max-height: 50px
+}
+
+.banner_bootom_wrap .owl-item img:hover,
+.client_wrap .owl-item img:hover {
+	filter: grayscale(0)
+}
+
+.banner_bootom_wrap .text h3 {
+	color: #1f2a3a;
+	font-size: 1.75rem;
+	font-weight: 600
+}
+
+.banner_bootom_wrap .middle_client {
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	width: 80%
+}
+
+.home_tab_panel {
+	background: #f7f7f7;
+	padding: 25px 0 42px
+}
+
+.home_tab_panel .tabs {
+	margin: 0 0 2.8125rem;
+	padding: 0;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-bottom: 1px solid #299fda
+}
+
+.home_tab_panel .tabs li {
+	list-style: none;
+	margin: 0;
+	padding: 0
+}
+
+.home_tab_panel .tabs li a.active {
+	color: #299fda;
+	border: 0;
+	background: 0 0
+}
+
+.home_tab_panel .tabs li a {
+	border: 0;
+	color: #1f2a3a;
+	font-weight: 500;
+	font-size: 1.25rem;
+	padding: 10px 40px 20px;
+	display: block;
+	position: relative;
+	text-align: center
+}
+
+.home_tab_panel .tabs li a.active:after {
+	opacity: 1
+}
+
+.home_tab_panel .tabs li a:after {
+	position: absolute;
+	content: "";
+	bottom: 0;
+	left: 50%;
+	margin-left: -3px;
+	opacity: 0;
+	width: 0;
+	height: 0;
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-bottom: 5px solid #299fda
+}
+
+.tab_content_active {
+	display: block
+}
+
+.home_tab_panel h3 {
+	color: #1f2a3a;
+	font-weight: 600;
+	font-size: 1.75rem
+}
+
+.innovative_solution .box h5 {
+	color: #1f2a3a;
+	font-weight: 500;
+	font-size: 1.25rem
+}
+
+.is_tabBox {
+	border-radius: 8px
+}
+
+.is_tabBox a,
+.is_tabBox h5 a {
+	color: #1f2a3a
+}
+
+.is_tabBox a:hover,
+.is_tabBox h5 a:hover {
+	color: #299fda
+}
+
+.shadow {
+	box-shadow: 0 0 11px -2px #d9d9d9
+}
+
+.w-auto {
+	width: auto !important
+}
+
+.get_quote .input-group-text {
+	width: 100px;
+	padding: 5px
+}
+
+.demand_solution p {
+	margin-top: 0;
+	margin-bottom: 1rem;
+	font-size: 14px;
+	line-height: 26px
+}
+
+.demand_solution figcaption a {
+	color: #fff;
+	padding: 10px 15px;
+	border-radius: 26px
+}
+
+/* .why_Orizen { padding: 50px; background: #f7f7f7 } */
+.summary ul li a {
+	color: #299fda;
+	text-decoration: underline;
+}
+
+.modal_form .input-group-prepend,
+.modal_form .input-group-prepend select {
+	max-width: 120px;
+}
+
+.ppc_modal .modal-body {
+	background: url(../../ppc/images/modal_bg.jpg) no-repeat center top;
+	background-size: cover;
+	border: 1px solid #e3e3e3;
+	padding: 10px 15px;
+}
+
+select#country_select {
+	color: #737373;
+	font-size: 15px;
+	font-weight: 400;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #e7e7e7;
+	border-radius: 5px 0 0 5px;
+	background-color: #fff;
+	padding: 10px 9px;
+	height: auto;
+}
+
+.modal_form .modal-title {
+	margin-bottom: 0;
+	line-height: 1.5;
+	color: #000;
+	font-weight: 700;
+	font-size: 25px;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	position: relative;
+}
+
+.modal_form .modal-title:after {
+	position: absolute;
+	content: "";
+	width: 30px;
+	height: 5px;
+	bottom: 0;
+	left: 0;
+	background: #299fda;
+}
+
+.ppc_modal .modal-body form p {
+	text-align: center;
+	color: #000;
+	margin-top: 15px;
+	font-size: 14px;
+}
+
+.modal_form .modal-title span {
+	display: block;
+	font-size: 16px;
+	font-weight: 500
+}
+
+.modal_form {
+	padding: 40px 20px;
+	background: #fff;
+}
+
+.modal_form .close {
+	font-size: 30px;
+	font-weight: 200;
+	line-height: 1;
+	color: #fff;
+	text-shadow: none;
+	opacity: 1;
+	padding: 0;
+	display: block;
+	position: absolute;
+	top: 0;
+	right: 14px;
+	background: #f89125;
+	width: 30px;
+	height: 30px;
+	border-radius: 0;
+}
+
+.ppc_modal .modal-body h2 {
+	font-size: 45px;
+	color: #fff
+}
+
+.ppc_modal .modal-body p {
+	color: #fff;
+}
+
+.trusted_wrap {
+	background: #000;
+	margin: -1px 0 0;
+	z-index: 9;
+}
+
+.trusted_heading {
+	width: 50%;
+	color: #fff;
+	font-weight: 400;
+	font-size: 20px;
+}
+
+.modal-backdrop.show {
+	opacity: .8;
+}
+
+.trusted {
+	width: 50%;
+	border-left: 1px solid #fff;
+	padding-left: 6px;
+}
+
+.trusted .item {
+	max-width: 20%;
+	padding: 0 5px
+}
+
+.trusted .item img {
+	max-width: 100%;
+	filter: grayscale(1);
+	transition: 0.4s ease all;
+}
+
+.trusted .item img:hover {
+	filter: grayscale(0);
+}
+
+.trusted h4 {
+	color: #fff;
+	font-size: 20px;
+}
+
+.section11 .whyn_box figure img {
+	max-height: 44px;
+}
+
+.modal-xl {
+	max-width: 1140px;
+}
+
+.technology_Orizen .tab_bg {
+	border-radius: 0;
+	background-color: transparent;
+	box-shadow: none;
+	background-image: none;
+	background-repeat: no-repeat;
+}
+
+.technology_Orizen ul {
+	border: 0;
+	display: flex;
+}
+
+.technology_Orizen .nav-tabs li {
+	margin: 0;
+	border: 0;
+}
+
+.technology_Orizen ul li a {
+	font-size: 15px;
+	color: #ffffff;
+	font-weight: 400;
+	padding: 10px 10px;
+	position: relative;
+	border: 0 !important;
+	background: #299fda;
+	border-radius: 5px 5px 0 0 !important;
+	margin-right: 3px;
+}
+
+.technology_Orizen .tab-content {
+	border-radius: 0;
+	background-color: #fff;
+	box-shadow: 0 0 20px 0 rgb(57 73 99 / 15%);
+	background-image: url(../../404.html);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+
+.technology_Orizen .tab_bg .text-dark {
+	color: #343a40 !important;
+	padding: 2rem 3rem;
+}
+
+.technology_Orizen .tab_bg .text-dark {
+	color: #343a40 !important;
+	padding: 2rem 3rem;
+}
+
+.technology_Orizen ul {
+	border: 0;
+	display: flex;
+}
+
+.hire_web_developers_list li {
+	width: 16.66%;
+	display: -webkit-inline-box;
+	display: -ms-inline-flexbox;
+	display: inline-flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	padding: 1.07rem .8rem;
+}
+
+.hwd_list_img {
+	width: 6rem;
+	height: 6rem;
+	border-radius: 50%;
+	border: 2px solid #299fda;
+}
+
+.hwd_list_title {
+	width: 100%;
+	text-align: center;
+	font-size: 15px;
+	color: #000;
+	word-break: break-all;
+	margin-bottom: 0;
+}
+
+.technology_Orizen .nav-tabs .nav-link.active,
+.technology_Orizen ul li a:focus,
+.technology_Orizen ul li a:hover {
+	color: #fff;
+	background: #299fda;
+	border: 0;
+}
+
+.mini_heading h2 {
+	font-size: 22px;
+	margin-bottom: 15px;
+}
+
+.vision_mission {
+	background: #efefef;
+}
+
+@media (min-width:1350.98px) {
+	.container {
+		max-width: 1280px
+	}
+}
+
+@media (max-width:1366.98px) {
+	.section_heading:before {
+		left: 0;
+		top: -10px
+	}
+
+	.menu ul li + li {
+		margin-left: 10px
+	}
+
+	.home_banner .caption h1 {
+		font-size: 50px
+	}
+
+	.work_stats .box {
+		padding: 35px 30px
+	}
+
+	.about_banner h2 {
+		font-size: 33px
+	}
+
+	.team_profile {
+		margin-top: 190px
+	}
+
+	.team_content {
+		margin-right: -30px
+	}
+
+	.about_banner .btn + .btn {
+		margin-left: 0
+	}
+}
+
+@media (max-width:1199.98px) {
+	.technology_Orizen ul.nav-tabs {
+		display: flex;
+		overflow-x: scroll;
+		white-space: nowrap;
+		flex-wrap: nowrap;
+		margin-bottom: 5px;
+	}
+
+	.about_banner h2 {
+		font-size: 26px
+	}
+
+	.menu ul li a {
+		font-size: 14px
+	}
+
+	.menu ul li + li {
+		margin-left: 0
+	}
+
+	.fixed_header img.logo_icon {
+		line-height: 45px;
+		display: none
+	}
+
+	.home_banner .caption h1 {
+		font-size: 40px
+	}
+
+	.page_heading h2 {
+		font-size: 35px
+	}
+
+	.welcome_Orizen {
+		padding: 100px 0 180px
+	}
+
+	.work_stats .box {
+		padding: 35px 15px
+	}
+
+	.work_stats {
+		padding: 60px 0
+	}
+
+	.team_content .btn + .btn {
+		margin-left: 0;
+		margin-top: 10px
+	}
+
+	.client_wrap .owl-nav {
+		text-align: center;
+		margin-top: 15px
+	}
+
+	.client_wrap .owl-nav img {
+		padding: 0 10px
+	}
+
+	.testimonial_slider .owl-nav {
+		left: 52%
+	}
+
+	.quote_form form {
+		overflow: hidden
+	}
+
+	.quote_form form .form-group {
+		margin-bottom: 12px
+	}
+
+	.certificate_slider .owl-nav {
+		text-align: center
+	}
+
+	.certificate_slider .owl-nav img {
+		padding: 10px
+	}
+
+	.copyright a,
+	.copyright p,
+	.quick_links ul li a {
+		font-size: 14px
+	}
+
+	.section_name h6 {
+		font-size: 17px;
+		bottom: 37px
+	}
+
+	.section_name {
+		width: 87px;
+		height: 180px
+	}
+
+	.mobile_app_page .box a {
+		display: block;
+		text-align: center
+	}
+
+	.mobile_app_page .box .image {
+		margin-bottom: 15px
+	}
+
+	.business_text {
+		padding: 80px 10px
+	}
+
+	.app_slider .box {
+		margin-right: -50px
+	}
+
+	.app_slider .owl-nav {
+		bottom: -30px
+	}
+
+	.team {
+		padding: 80px 0 60px
+	}
+
+	.innovative_solution .box h5 {
+		font-size: 1rem
+	}
+}
+
+@media (max-width:991.98px) {
+	.section_heading:before {
+		display: none;
+	}
+
+	.hire_web_developers_list li {
+		width: 20%;
+	}
+
+	.testimonial_text {
+		width: 100%;
+		padding: 0 25px 30px;
+		margin: 0;
+	}
+
+	.left_tab ul {
+		display: flex;
+		justify-content: center;
+	}
+
+	.left_tab .nav-tabs .nav-item.show .nav-link:after,
+	.left_tab .nav-tabs .nav-link.active:after {
+		display: none;
+	}
+
+	.left_tab .nav-tabs .nav-item.show .nav-link .testi_img img,
+	.left_tab .nav-tabs .nav-link.active .testi_img img {
+		border: 4px solid #299fda;
+		box-shadow: 0 0 25px rgb(247 107 29 / 60%);
+	}
+
+	.why_Orizen .tab-content {
+		padding: 0;
+	}
+
+	.demand_solution {
+		padding: 40px 0;
+	}
+
+	.section_heading:before {
+		display: none;
+	}
+
+	.home_banner img {
+		max-width: 500px;
+	}
+
+	.home_tab_panel .tabs li a {
+		padding: 10px 10px 20px;
+	}
+
+	.is_tabBox img {
+		max-width: 43px
+	}
+
+	.industry_list li {
+		width: 25%
+	}
+
+	.dropdown-menu .mobile_50 li {
+		width: 100%
+	}
+
+	.testimonial_project img {
+		max-height: 400px
+	}
+
+	.value_heading {
+		display: block
+	}
+
+	.value_heading .icon {
+		display: block;
+		margin-bottom: 15px
+	}
+
+	.value_heading h4 {
+		margin: 0;
+		font-size: 18px
+	}
+
+	img {
+		max-width: 100%
+	}
+
+	.why_Orizen {
+		padding: 40px 0
+	}
+
+	.industry_list li {
+		width: 25%
+	}
+
+	.about_banner h2 {
+		font-size: 25px
+	}
+
+	.home_banner {
+		padding: 85px 0 125px
+	}
+
+	.home_banner .caption h1 {
+		font-size: 30px
+	}
+
+	.talk_consult_bg {
+		padding: 0 20px
+	}
+
+	.app_idea_img img {
+		margin-top: -50px;
+		max-width: 110px
+	}
+
+	.app_idea_img .text {
+		margin-left: 15px
+	}
+
+	.app_idea_img h3 {
+		font-size: 26px
+	}
+
+	.talk_consult_bg .btn .mr-2 {
+		display: none
+	}
+
+	.welcome_Orizen {
+		padding: 70px 0 110px
+	}
+
+	.service_left_list ul li + li {
+		margin-top: 45px
+	}
+
+	.service_left_list ul li {
+		text-align: left
+	}
+
+	.process_flow {
+		padding: 45px 18px
+	}
+
+	.work_stats {
+		padding: 40px 0
+	}
+
+	.work_stats .box span {
+		font-size: 28px
+	}
+
+	.client {
+		padding-top: 55px
+	}
+
+	.client {
+		padding-top: 55px
+	}
+
+	.solution_slider .owl-nav {
+		top: 5%
+	}
+
+	.section_heading {
+		margin-bottom: 30px
+	}
+
+	.testimonial_slider .owl-nav {
+		left: 25px;
+		bottom: 10%
+	}
+
+	.testimonial .item {
+		padding: 20px 0 0
+	}
+
+	.feedback p:first-letter {
+		margin-left: 10px
+	}
+
+	.blog-wrap {
+		padding-bottom: 25px
+	}
+
+	.blog_img:after {
+		background: 0 0
+	}
+
+	.blog-wrap .date {
+		font-size: 15px
+	}
+
+	.blog-wrap h5 {
+		font-size: 15px;
+		line-height: 20px;
+		margin-bottom: 10px
+	}
+
+	.blog-wrap .date {
+		font-size: 15px
+	}
+
+	.get_quote {
+		padding: 40px 0
+	}
+
+	.quote_form {
+		margin-top: 25px;
+		margin-right: 0;
+		margin-bottom: 30px
+	}
+
+	.social_info {
+		max-width: 240px;
+		margin: 0 auto 30px
+	}
+
+	.quote_form form .form-group {
+		margin-bottom: 18px
+	}
+
+	.map_outer iframe {
+		height: auto
+	}
+
+	.process_flow ul li {
+		width: 25%;
+		padding: 0 15px
+	}
+
+	.process_flow ul {
+		flex-wrap: wrap
+	}
+
+	.client_slider .item img {
+		margin: auto
+	}
+
+	.mobile_app_page .box a {
+		display: flex
+	}
+
+	.mobile_app_page .box .image {
+		margin-bottom: 0
+	}
+
+	.border_wrap .outer {
+		width: 33.33%
+	}
+
+	.border_wrap .outer img,
+	.business_text img {
+		max-width: 100%
+	}
+
+	.business_text {
+		padding: 50px 20px
+	}
+
+	.business_text p {
+		color: #fff;
+		font-size: 23px;
+		margin-bottom: 22px
+	}
+
+	.md_text img {
+		max-width: 130px
+	}
+
+	.md_wrap .md_text h3 {
+		font-size: 26px
+	}
+
+	.md_wrap .md_text {
+		padding: 50px 16px
+	}
+
+	.app_slider .box {
+		margin-right: 0
+	}
+
+	.app_slider .box h3 {
+		font-size: 30px
+	}
+
+	.app_slider .box {
+		margin-bottom: 20px
+	}
+
+	.team_content .btn + .btn {
+		margin-left: 10px;
+		margin-top: 0
+	}
+
+	.team_content {
+		margin-right: 0;
+		width: 100%
+	}
+
+	.team_profile {
+		width: 90%;
+		margin: 90px auto 0
+	}
+
+	.banner_bootom_wrap .btn {
+		display: none
+	}
+
+	.banner_bootom_wrap .middle_client {
+		width: 100%
+	}
+}
+
+@media (max-width:767.98px) {
+	.hire_web_developers_list li {
+		width: 25%;
+	}
+
+	.home_banner .caption {
+		margin: 0;
+		position: static;
+		top: 0;
+		width: 100%;
+		transform: translate(0, 0)
+	}
+
+	.home_banner .caption h1 {
+		font-size: 40px
+	}
+
+	.landing_banner_type {
+		min-height: 70px
+	}
+
+	.home_tab_panel .tabs li a {
+		font-size: 1rem;
+		padding: 10px 10px 20px;
+		text-align: center
+	}
+
+	.home_tab_panel .tabs li {
+		width: 33.33%
+	}
+
+	.home_tab_panel .tabs {
+		margin: 0 0 1.5rem
+	}
+
+	.banner_bootom {
+		margin-top: 30px
+	}
+
+	.banner_bootom_wrap {
+		flex-wrap: wrap;
+		justify-content: center;
+		padding: 15px
+	}
+
+	.banner_bootom_wrap .text {
+		text-align: center;
+		margin-bottom: 20px
+	}
+
+	.banner_bootom_wrap .middle_client {
+		width: 100%
+	}
+
+	.app_idea_img h2 {
+		font-size: 24px
+	}
+
+	.btn > i,
+	.btn > img {
+		display: none
+	}
+
+	.industry_list li {
+		width: 33.33%
+	}
+
+	.industry_list li {
+		width: 33.33%
+	}
+
+	header {
+		padding: 20px 0
+	}
+
+	.talk_consult {
+		margin-top: 40px
+	}
+
+	.home_banner.free_consult_banner {
+		padding: 75px 0 0;
+		background-position: left top
+	}
+
+	.home_banner {
+		padding: 85px 0 30px
+	}
+
+	.talk_consult_bg {
+		padding: 0 20px 20px
+	}
+
+	.welcome_Orizen {
+		padding: 50px 0 40px
+	}
+
+	.our_services {
+		padding: 50px 0
+	}
+
+	.page_heading h2 {
+		line-height: 36px;
+		margin-bottom: 20px
+	}
+
+	.app_idea_img h3 {
+		font-size: 22px
+	}
+
+	.section_heading h4 {
+		font-size: 24px
+	}
+
+	.section_heading:before {
+		width: 56px;
+		height: 44px;
+		left: -20px;
+		top: 0;
+		background-size: cover
+	}
+
+	.page_heading h2 {
+		font-size: 26px
+	}
+
+	.welcome_Orizen p {
+		line-height: 26px
+	}
+
+	.process_flow ul li {
+		width: 50%;
+		margin-bottom: 30px
+	}
+
+	.process_flow {
+		padding: 30px 10px 10px
+	}
+
+	.industry_slider .owl-nav {
+		margin-top: 10px
+	}
+
+	.client {
+		padding-top: 40px
+	}
+
+	.demand_solution {
+		padding: 30px 0;
+	}
+
+	.latest_industry {
+		padding: 30px 0 20px;
+	}
+
+	.solution_slider .owl-nav {
+		top: auto;
+		text-align: center;
+		position: static
+	}
+
+	.testimonial_slider .owl-nav {
+		left: 0;
+		bottom: 5%
+	}
+
+	.blog-wrap .outer {
+		margin: 0 auto 30px;
+		max-width: 402px
+	}
+
+	.blog_img:after {
+		background: url(../../404.html) no-repeat
+	}
+
+	.client_wrap {
+		padding: 15px;
+		margin-top: 0
+	}
+
+	.client_wrap .item img {
+		margin: auto;
+		width: auto
+	}
+
+	.get_quote {
+		padding: 20px 0
+	}
+
+	.section_heading {
+		margin-bottom: 18px
+	}
+
+	.quote_form {
+		margin: 10px 0 30px;
+		padding: 25px 20px
+	}
+
+	.copyright {
+		text-align: center
+	}
+
+	.certificate_wrapper {
+		margin: 30px 0
+	}
+
+	.mobile_app_page .box a {
+		padding: 20px 15px
+	}
+
+	.mobile_app_page .box h4 {
+		font-size: 18px
+	}
+
+	.border_wrap .outer {
+		width: 50%
+	}
+
+	.app_slider_wrapper {
+		padding: 50px 0 0
+	}
+
+	.business_text {
+		padding: 30px 20px;
+		border-top: 1px solid #6e7681;
+		border-left: 0
+	}
+
+	.md_wrap .md_text {
+		padding: 30px 16px
+	}
+
+	.about_banner_bottom .talk_consult_bg {
+		padding: 20px
+	}
+
+	.about_banner_bottom h2 {
+		font-size: 30px
+	}
+
+	.about_banner_bottom h6 {
+		font-size: 15px
+	}
+
+	.team_profile {
+		transform: rotate(0);
+		width: 100%;
+		margin: 20px auto 0
+	}
+
+	.team_row .box {
+		width: 33.33%
+	}
+
+	.btn i {
+		display: none
+	}
+
+	.blog-wrap {
+		padding: 30px 0;
+	}
+
+	.why_Orizen {
+		padding: 30px 0;
+	}
+}
+
+@media (max-width:575.98px) {
+	.hire_web_developers_list li {
+		width: 33.33%;
+		padding: 0 4px 10px;
+	}
+
+	.left_tab .nav-tabs .nav-link {
+		padding: 5px
+	}
+
+	.demand_solution figure img {
+		max-height: 270px;
+		width: auto;
+		display: block;
+		margin: 0 auto;
+	}
+
+	.blog_img + .pb-4 {
+		padding-top: 15px;
+	}
+
+	.blog-wrap .outer {
+		margin: 0 auto 10px;
+	}
+
+	.blog_img {
+		display: none;
+	}
+
+	.summary {
+		display: none;
+	}
+
+	.landing_banner_type {
+		min-height: auto
+	}
+
+	.home_tab_panel {
+		padding: 25px 0 10px
+	}
+
+	.office_address p a {
+		word-break: break-all
+	}
+
+	.home_tab_panel .tabs li a {
+		font-size: 14px;
+		padding: 10px 2px 15px
+	}
+
+	.home_tab_panel h3 {
+		font-size: 23px
+	}
+
+	.section_heading h2 {
+		font-size: 24px
+	}
+
+	.banner_bootom_wrap .text h3 {
+		font-size: 22px
+	}
+
+	.testimonial_project img {
+		max-height: 300px
+	}
+
+	.value_heading h4 {
+		font-size: 16px
+	}
+
+	.value_heading {
+		display: flex
+	}
+
+	.value_heading .icon {
+		display: block;
+		margin-bottom: 0;
+		width: 60px;
+		padding-right: 10px
+	}
+
+	.banner_wrapper img.mw-100 {
+		width: 60%;
+		margin: auto;
+		display: block
+	}
+
+	.home_banner .caption h1 {
+		font-size: 30px
+	}
+
+	.home_banner .caption p {
+		font-size: 15px
+	}
+
+	.home_banner.free_consult_banner {
+		padding: 95px 0 0
+	}
+
+	.home_banner {
+		padding: 115px 0 20px
+	}
+
+	.welcome_Orizen {
+		padding: 30px 0 40px
+	}
+
+	.section_heading:before {
+		left: 0
+	}
+
+	.section_heading h4 {
+		font-size: 22px
+	}
+
+	.section_heading:before {
+		top: -4px
+	}
+
+	.page_heading h2 {
+		font-size: 22px
+	}
+
+	.welcome_img img {
+		width: 60%;
+		margin: auto
+	}
+
+	.our_services:before {
+		left: 0
+	}
+
+	.welcome_Orizen {
+		padding: 30px 0 20px
+	}
+
+	.service_left_list ul li h4 {
+		font-size: 17px
+	}
+
+	.cmmi_box {
+		max-width: 335px
+	}
+
+	.industries {
+		margin-top: 60px
+	}
+
+	.blog-wrap {
+		padding-bottom: 0
+	}
+
+	footer {
+		padding: 25px 0 0
+	}
+
+	.quick_links_outer p span {
+		font-size: 15px
+	}
+
+	footer .quick_links {
+		margin-bottom: 15px
+	}
+
+	.welcome_Orizen p {
+		line-height: 24px;
+		font-size: 14px
+	}
+
+	.service_left_list ul li p {
+		font-size: 14px;
+		line-height: 24px
+	}
+
+	.process_flow ul li h6 {
+		font-size: 18px
+	}
+
+	p {
+		font-size: 14px
+	}
+
+	.demand_solution .item {
+		padding: 0 0 20px
+	}
+
+	.feedback p {
+		font-size: 14px
+	}
+
+	.home_banner .caption h1 {
+		font-size: 24px
+	}
+
+	.home_banner .caption h6 {
+		font-size: 18px;
+		margin-bottom: 15px
+	}
+
+	.app_slider .box h3 {
+		font-size: 22px
+	}
+
+	.app_slider .box h5 {
+		font-size: 16px;
+		margin-bottom: 12px
+	}
+
+	.about_banner_bottom .border-x {
+		border-left: 0;
+		border-right: 0;
+		border-top: 1px solid #9ca4b1;
+		border-bottom: 1px solid #9ca4b1
+	}
+
+	.about_banner_bottom .talk_consult_bg {
+		padding: 0 15px;
+		text-align: center
+	}
+
+	.team {
+		padding: 40px 0 60px
+	}
+
+	.industry_list li a span {
+		font-size: 30px
+	}
+
+	.portfolio_img img {
+		width: 100%
+	}
+
+	.trusted_wrap {
+		display: none;
+	}
+}
+
+@media (max-width:479.98px) {
+	.testi_img img {
+		width: 70px !important;
+		height: 70px;
+	}
+
+	.industry_list li {
+		width: 50%
+	}
+
+	.industry_list li {
+		width: 50%
+	}
+
+	.team_row .box {
+		width: 50%
+	}
+
+	.team_content .btn + .btn {
+		margin-left: 0;
+		margin-top: 10px
+	}
+
+	.business_text p {
+		font-size: 18px
+	}
+
+	.border_wrap .outer {
+		width: 100%;
+		margin-right: 0;
+		margin-left: 0
+	}
+
+	.app_slider_wrapper {
+		padding: 30px 0 0
+	}
+
+	.app_idea_img .text {
+		padding-top: 15px
+	}
+
+	.app_idea_img h3 {
+		font-size: 18px
+	}
+
+	.app_idea_img p {
+		font-size: 14px
+	}
+
+	.page_heading h2 {
+		font-size: 20px
+	}
+
+	.section_name {
+		display: none
+	}
+
+	.service_left_list ul li + li {
+		margin-top: 30px
+	}
+
+	.our_services {
+		padding: 40px 0 20px
+	}
+
+	.process_flow ul li h6 {
+		font-size: 16px
+	}
+
+	.cmmi_box {
+		max-width: 300px;
+		padding: 0 10px
+	}
+
+	.client .section_heading {
+		margin-bottom: 20px
+	}
+
+	.feedback {
+		padding: 0
+	}
+
+	.feedback:before {
+		top: 0
+	}
+
+	.quote_btn ul.footer_social {
+		padding: 0;
+		display: block;
+		margin: 13px 0 0
+	}
+
+	.welcome_Orizen:before {
+		width: 100%;
+		bottom: 0
+	}
+
+	.border_wrap .outer img {
+		width: 50%
+	}
+
+	.border_wrap .outer {
+		padding: 14px 15px 0
+	}
+}
